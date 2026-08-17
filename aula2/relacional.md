@@ -1,12 +1,12 @@
-artista(<u>id_artista</u>, nome)
+artista(<ins>id_artista</ins>, nome)
 
-album(<u>id_album</u>, nome)
+album(<ins>id_album</ins>, nome)
 
-genero(<u>id_genero</u>, nome)
+genero(<ins>id_genero</ins>, nome)
 
-faixa(<u>id_faixa</u>, nome, duracao_ms, explicita, popularidade,
+faixa(<ins>id_faixa</ins>, nome, duracao_ms, explicita, popularidade,
       danceability, energy, loudness, speechiness, acousticness,
       instrumentalness, liveness, valence, tempo, key, mode, time_signature,
       id_album#, id_genero#)
 
-faixa_artista(<u>id_faixa#, id_artista#</u>)   -- resolve N:N, PK composta
+faixa_artista(<ins>id_faixa#, id_artista#</ins>) -- resolve N:N, PK composta
