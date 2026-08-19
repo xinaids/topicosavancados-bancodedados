@@ -8,5 +8,11 @@ faixa(<ins>id_faixa</ins>, nome, duracao_ms, explicita, popularidade,
       danceability, energy, loudness, speechiness, acousticness,
       instrumentalness, liveness, valence, tempo, key, mode, time_signature,
       id_album#, id_genero#)
+(id_album) referencia album(id_album)
+(id_genero) referencia genero(id_genero)
 
-faixa_artista(<ins>id_faixa#, id_artista#</ins>) -- resolve N:N, PK composta
+faixa_artista(<ins>id_faixa#, id_artista#</ins>)-- resolve N:N, PK composta
+
+(id_faixa) referencia faixa(id_faixa)
+
+(id_artista) referencia artista(id_artista)
