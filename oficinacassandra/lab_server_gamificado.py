@@ -14,6 +14,7 @@ Jogadores acessam: http://IP_DO_SERVIDOR:5000
 from flask import Flask, request, render_template_string, session as flask_session, redirect, url_for
 from cassandra.cluster import Cluster
 import time
+import re
 
 app = Flask(__name__)
 app.secret_key = "oficina-cassandra-2026"  # troque se quiser
@@ -26,6 +27,31 @@ db.execute("""
     WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 1}
 """)
 db.set_keyspace("oficina")
+
+TABELA_BASE = "jogadores_livros"
+
+
+def tabela_do_jogador(nome):
+    """Gera um nome de tabela isolado por jogador (evita colisão entre jogadores)."""
+    sufixo = re.sub(r"[^a-z0-9_]", "", nome.lower().replace(" ", "_"))
+    if not sufixo:
+        sufixo = "anon"
+    return f"{TABELA_BASE}_{sufixo}"
+
+
+def resetar_tabela_jogador(nome):
+    """Remove a tabela pessoal do jogador, garantindo um começo limpo."""
+    tabela = tabela_do_jogador(nome)
+    db.execute(f"DROP TABLE IF EXISTS {tabela}")
+
+
+def adaptar_comando_para_jogador(texto_cql, nome):
+    """
+    Substitui o nome de tabela 'jogadores_livros' (como o jogador digitou)
+    pelo nome de tabela isolado dele, sem o jogador perceber a diferença.
+    """
+    tabela = tabela_do_jogador(nome)
+    return re.sub(r"(?i)\bjogadores_livros\b", tabela, texto_cql)
 
 # Ranking em memória: {nome_jogador: {"pontos": int, "resolvidos": set(ids)}}
 RANKING = {}
@@ -154,30 +180,39 @@ def resultado_como_lista(rows):
     return [dict(zip(row._fields, row)) for row in rows]
 
 
-def validar_exercicio(ex, comando_jogador):
-    """Executa o comando do jogador e valida contra o comportamento esperado."""
+def validar_exercicio(ex, comando_jogador, nome):
+    """Executa o comando do jogador (isolado na tabela pessoal dele) e valida o resultado."""
+    tabela = tabela_do_jogador(nome)
+    comando_adaptado = adaptar_comando_para_jogador(comando_jogador, nome)
+
     try:
-        db.execute(comando_jogador)
+        db.execute(comando_adaptado)
     except Exception as e:
-        return False, f"Erro ao executar: {e}"
+        erro_str = str(e)
+        # Caso especial: tabela pessoal já existe (reenvio do mesmo exercício).
+        # Se o comando era um CREATE TABLE válido, não penalizamos por isso.
+        if ex["tipo"] == "ddl" and "already exists" in erro_str.lower():
+            pass  # segue para a verificação de estrutura abaixo
+        else:
+            return False, f"Erro ao executar: {e}"
 
     if ex["tipo"] == "ddl":
         try:
-            check = db.execute(
-                "SELECT * FROM jogadores_livros LIMIT 1"
-            )
+            db.execute(f"SELECT * FROM {tabela} LIMIT 1")
             return True, "Tabela criada com sucesso!"
         except Exception as e:
             return False, f"Tabela não encontrada ou estrutura incorreta: {e}"
 
     if ex["tipo"] in ("dml_insert", "dml_update"):
-        rows = resultado_como_lista(db.execute(ex["verificacao"]))
+        verificacao = adaptar_comando_para_jogador(ex["verificacao"], nome)
+        rows = resultado_como_lista(db.execute(verificacao))
         if not rows:
             return False, "Nenhum registro encontrado após o comando."
         return True, f"Certo! Estado atual: {rows}"
 
     if ex["tipo"] == "dml_delete":
-        rows = resultado_como_lista(db.execute(ex["verificacao"]))
+        verificacao = adaptar_comando_para_jogador(ex["verificacao"], nome)
+        rows = resultado_como_lista(db.execute(verificacao))
         if rows:
             return False, "O registro ainda existe, delete não funcionou como esperado."
         return True, "Certo! Registro removido."
@@ -434,6 +469,7 @@ def login():
             flask_session["nome"] = nome
             if nome not in RANKING:
                 RANKING[nome] = {"pontos": 0, "resolvidos": set()}
+                resetar_tabela_jogador(nome)  # garante ambiente limpo e isolado para este jogador
             return redirect(url_for("jogo"))
     return render_template_string(PAGINA_LOGIN)
 
@@ -483,7 +519,7 @@ def responder(ex_id):
         flask_session["mensagem"] = "Você já resolveu este exercício."
         flask_session["proximidade"] = None
     else:
-        ok, msg = validar_exercicio(ex, comando)
+        ok, msg = validar_exercicio(ex, comando, nome)
         if ok:
             RANKING[nome]["pontos"] += ex["pontos"]
             RANKING[nome]["resolvidos"].add(ex_id)
