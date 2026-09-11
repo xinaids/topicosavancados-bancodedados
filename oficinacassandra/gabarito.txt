@@ -1,0 +1,41 @@
+GABARITO - OFICINA CASSANDRA
+Bancos de Dados Orientados a Colunas
+=====================================
+
+Exercicio 1 (10 pts) - Criar tabela
+-------------------------------------
+CREATE TABLE jogadores_livros (
+    categoria text,
+    codigo int,
+    titulo text,
+    PRIMARY KEY (categoria, codigo)
+);
+
+
+Exercicio 2 (10 pts) - Inserir dado
+-------------------------------------
+INSERT INTO jogadores_livros (categoria, codigo, titulo)
+VALUES ('ficcao', 1, 'Duna');
+
+
+Exercicio 3 (15 pts) - Consultar
+-------------------------------------
+SELECT * FROM jogadores_livros WHERE categoria = 'ficcao';
+
+
+Exercicio 4 (15 pts) - Atualizar
+-------------------------------------
+UPDATE jogadores_livros
+SET titulo = 'Duna - Edicao Especial'
+WHERE categoria = 'ficcao' AND codigo = 1;
+
+
+Exercicio 5 (15 pts) - Excluir
+-------------------------------------
+DELETE FROM jogadores_livros
+WHERE categoria = 'ficcao' AND codigo = 1;
+
+
+=====================================
+TOTAL POSSIVEL: 65 pontos
+=====================================
