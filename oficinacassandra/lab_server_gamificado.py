@@ -29,7 +29,7 @@ db.execute("""
 """)
 db.set_keyspace("oficina")
 
-TABELA_BASE = "livros"
+TABELA_BASE = "produtos"
 
 
 def tabela_do_jogador(nome):
@@ -48,11 +48,11 @@ def resetar_tabela_jogador(nome):
 
 def adaptar_comando_para_jogador(texto_cql, nome):
     """
-    Substitui o nome de tabela 'livros' (como o jogador digitou)
+    Substitui o nome de tabela generico (TABELA_BASE), como o jogador digitou,
     pelo nome de tabela isolado dele, sem o jogador perceber a diferenca.
     """
     tabela = tabela_do_jogador(nome)
-    return re.sub(r"(?i)\blivros\b", tabela, texto_cql)
+    return re.sub(rf"(?i)\b{re.escape(TABELA_BASE)}\b", tabela, texto_cql)
 
 
 def select_seguro(query):
@@ -75,92 +75,59 @@ def resultado_como_lista(rows):
     return [dict(zip(row._fields, row)) for row in rows]
 
 
-# Cada exercicio referencia a tabela generica 'livros' (adaptada por jogador em tempo real).
+# Cada exercicio referencia a tabela generica TABELA_BASE (adaptada por jogador em tempo real).
 EXERCICIOS = [
     {
         "id": 1,
-        "pontos": 10,
-        "enunciado": "Crie uma tabela 'livros' com partition key 'categoria' (text) e clustering key 'codigo' (int), contendo tambem 'titulo' (text), 'autor' (text) e 'ano' (int).",
-        "dica": "CREATE TABLE livros (categoria text, codigo int, titulo text, autor text, ano int, PRIMARY KEY (categoria, codigo)).",
+        "pontos": 15,
+        "enunciado": "Crie uma tabela 'produtos' com partition key 'categoria' (text) e clustering key 'codigo' (int), contendo tambem 'nome' (text), 'marca' (text) e 'preco' (decimal).",
+        "dica": "CREATE TABLE produtos (categoria text, codigo int, nome text, marca text, preco decimal, PRIMARY KEY (categoria, codigo)).",
         "tipo": "ddl",
     },
     {
         "id": 2,
-        "pontos": 10,
-        "enunciado": "Insira o livro (categoria='ficcao', codigo=1, titulo='Duna', autor='Frank Herbert', ano=1965) na tabela livros.",
-        "gabarito": "INSERT INTO livros (categoria, codigo, titulo, autor, ano) VALUES ('ficcao', 1, 'Duna', 'Frank Herbert', 1965)",
-        "verificacao": "SELECT * FROM livros WHERE categoria='ficcao' AND codigo=1",
-        "dica": "INSERT INTO livros (categoria, codigo, titulo, autor, ano) VALUES ('ficcao', 1, 'Duna', 'Frank Herbert', 1965).",
+        "pontos": 15,
+        "enunciado": "Insira os dois produtos a seguir na tabela produtos: (categoria='eletronicos', codigo=1, nome='Fone de Ouvido', marca='JBL', preco=129.90) e (categoria='eletronicos', codigo=2, nome='Teclado Mecanico', marca='Logitech', preco=349.90). Voce pode enviar os dois comandos juntos, separados por ponto e virgula.",
+        "gabarito": "INSERT INTO produtos (categoria, codigo, nome, marca, preco) VALUES ('eletronicos', 1, 'Fone de Ouvido', 'JBL', 129.90); INSERT INTO produtos (categoria, codigo, nome, marca, preco) VALUES ('eletronicos', 2, 'Teclado Mecanico', 'Logitech', 349.90)",
+        "verificacao": "SELECT * FROM produtos WHERE categoria='eletronicos'",
+        "min_rows": 2,
+        "dica": "INSERT INTO produtos (...) VALUES ('eletronicos', 1, 'Fone de Ouvido', 'JBL', 129.90); INSERT INTO produtos (...) VALUES ('eletronicos', 2, 'Teclado Mecanico', 'Logitech', 349.90)",
         "tipo": "dml_insert",
     },
     {
         "id": 3,
-        "pontos": 10,
-        "enunciado": "Insira um segundo livro: (categoria='ficcao', codigo=2, titulo='Fundacao', autor='Isaac Asimov', ano=1951).",
-        "gabarito": "INSERT INTO livros (categoria, codigo, titulo, autor, ano) VALUES ('ficcao', 2, 'Fundacao', 'Isaac Asimov', 1951)",
-        "verificacao": "SELECT * FROM livros WHERE categoria='ficcao' AND codigo=2",
-        "dica": "Mesma sintaxe do exercicio anterior, so trocando os valores.",
-        "tipo": "dml_insert",
+        "pontos": 15,
+        "enunciado": "Escreva uma consulta que retorne os produtos da categoria 'eletronicos' ordenados por codigo em ordem decrescente.",
+        "gabarito": "SELECT * FROM produtos WHERE categoria = 'eletronicos' ORDER BY codigo DESC",
+        "dica": "SELECT * FROM produtos WHERE categoria = 'eletronicos' ORDER BY codigo DESC. So funciona ordenando pela clustering key.",
+        "tipo": "select",
     },
     {
         "id": 4,
-        "pontos": 10,
-        "enunciado": "Escreva uma consulta que retorne todos os livros da categoria 'ficcao'.",
-        "gabarito": "SELECT * FROM livros WHERE categoria = 'ficcao'",
-        "dica": "SELECT * FROM livros WHERE categoria = 'ficcao'. Deve trazer os dois livros inseridos.",
-        "tipo": "select",
+        "pontos": 15,
+        "enunciado": "Atualize o preco do produto (categoria='eletronicos', codigo=1) para 99.90 (promocao).",
+        "gabarito": "UPDATE produtos SET preco = 99.90 WHERE categoria='eletronicos' AND codigo=1",
+        "verificacao": "SELECT * FROM produtos WHERE categoria='eletronicos' AND codigo=1",
+        "dica": "UPDATE produtos SET preco = 99.90 WHERE categoria='eletronicos' AND codigo=1.",
+        "tipo": "dml_update",
     },
     {
         "id": 5,
-        "pontos": 10,
-        "enunciado": "Escreva uma consulta que retorne os livros da categoria 'ficcao' ordenados por codigo em ordem decrescente.",
-        "gabarito": "SELECT * FROM livros WHERE categoria = 'ficcao' ORDER BY codigo DESC",
-        "dica": "Use ORDER BY codigo DESC no final da consulta. So funciona ordenando pela clustering key.",
-        "tipo": "select",
+        "pontos": 15,
+        "enunciado": "Exclua o produto (categoria='eletronicos', codigo=1) - o Fone de Ouvido.",
+        "gabarito": "DELETE FROM produtos WHERE categoria='eletronicos' AND codigo=1",
+        "verificacao": "SELECT * FROM produtos WHERE categoria='eletronicos' AND codigo=1",
+        "dica": "DELETE FROM produtos WHERE categoria='eletronicos' AND codigo=1.",
+        "tipo": "dml_delete",
     },
     {
         "id": 6,
-        "pontos": 10,
-        "enunciado": "Atualize o ano do livro (categoria='ficcao', codigo=1) para 2021 (ano do filme de Duna).",
-        "gabarito": "UPDATE livros SET ano = 2021 WHERE categoria='ficcao' AND codigo=1",
-        "verificacao": "SELECT * FROM livros WHERE categoria='ficcao' AND codigo=1",
-        "dica": "UPDATE livros SET ano = 2021 WHERE categoria='ficcao' AND codigo=1.",
-        "tipo": "dml_update",
-    },
-    {
-        "id": 7,
-        "pontos": 10,
-        "enunciado": "Atualize o titulo do livro (categoria='ficcao', codigo=2) para 'Fundacao - Edicao Comemorativa'.",
-        "gabarito": "UPDATE livros SET titulo = 'Fundacao - Edicao Comemorativa' WHERE categoria='ficcao' AND codigo=2",
-        "verificacao": "SELECT * FROM livros WHERE categoria='ficcao' AND codigo=2",
-        "dica": "UPDATE livros SET titulo = '...' WHERE categoria='ficcao' AND codigo=2.",
-        "tipo": "dml_update",
-    },
-    {
-        "id": 8,
-        "pontos": 10,
-        "enunciado": "Adicione uma nova coluna 'disponivel' do tipo boolean na tabela livros.",
-        "gabarito": "ALTER TABLE livros ADD disponivel boolean",
-        "dica": "ALTER TABLE livros ADD disponivel boolean.",
-        "tipo": "alter",
-    },
-    {
-        "id": 9,
-        "pontos": 10,
-        "enunciado": "Crie um indice secundario na coluna 'autor' e consulte todos os livros de 'Isaac Asimov'.",
-        "gabarito": "CREATE INDEX ON livros (autor)",
-        "verificacao_extra": "SELECT * FROM livros WHERE autor = 'Isaac Asimov'",
-        "dica": "Primeiro: CREATE INDEX ON livros (autor). Depois: SELECT * FROM livros WHERE autor = 'Isaac Asimov'.",
+        "pontos": 25,
+        "enunciado": "Crie um indice secundario na coluna 'marca' e consulte todos os produtos da marca 'Logitech'.",
+        "gabarito": "CREATE INDEX ON produtos (marca)",
+        "verificacao_extra": "SELECT * FROM produtos WHERE marca = 'Logitech'",
+        "dica": "Digite APENAS este comando (a consulta pela marca roda sozinha depois): CREATE INDEX ON produtos (marca)",
         "tipo": "index_select",
-    },
-    {
-        "id": 10,
-        "pontos": 10,
-        "enunciado": "Exclua o livro (categoria='ficcao', codigo=2).",
-        "gabarito": "DELETE FROM livros WHERE categoria='ficcao' AND codigo=2",
-        "verificacao": "SELECT * FROM livros WHERE categoria='ficcao' AND codigo=2",
-        "dica": "DELETE FROM livros WHERE categoria='ficcao' AND codigo=2.",
-        "tipo": "dml_delete",
     },
 ]
 
@@ -172,13 +139,19 @@ def validar_exercicio(ex, comando_jogador, nome):
     tabela = tabela_do_jogador(nome)
     comando_adaptado = adaptar_comando_para_jogador(comando_jogador, nome)
 
-    try:
-        db.execute(comando_adaptado)
-    except Exception as e:
-        erro_str = str(e)
-        if ex["tipo"] in ("ddl", "alter", "index_select") and "already exists" in erro_str.lower():
-            pass  # reenvio do mesmo exercicio - nao penaliza
-        else:
+    # Tolerante a quem cola mais de um comando separado por ';' no mesmo campo
+    # (o driver do Cassandra so aceita um statement por chamada).
+    statements = [s.strip() for s in comando_adaptado.split(";") if s.strip()]
+    if not statements:
+        return False, "Nenhum comando foi digitado."
+
+    for stmt in statements:
+        try:
+            db.execute(stmt)
+        except Exception as e:
+            erro_str = str(e)
+            if ex["tipo"] in ("ddl", "alter", "index_select") and "already exists" in erro_str.lower():
+                continue  # reenvio do mesmo exercicio - nao penaliza
             return False, f"Erro ao executar: {e}"
 
     if ex["tipo"] == "ddl":
@@ -191,8 +164,9 @@ def validar_exercicio(ex, comando_jogador, nome):
     if ex["tipo"] in ("dml_insert", "dml_update"):
         verificacao = adaptar_comando_para_jogador(ex["verificacao"], nome)
         rows = resultado_como_lista(select_seguro(verificacao))
-        if not rows:
-            return False, "Nenhum registro encontrado apos o comando."
+        min_rows = ex.get("min_rows", 1)
+        if len(rows) < min_rows:
+            return False, f"Esperado(s) {min_rows} registro(s), encontrado(s) {len(rows)}."
         return True, f"Certo! Estado atual: {rows}"
 
     if ex["tipo"] == "dml_delete":
@@ -228,13 +202,13 @@ def analisar_proximidade(ex, comando_jogador):
     """Analise heuristica simples de proximidade, sem depender de IA/internet."""
     texto = comando_jogador.lower()
     palavras_chave = {
-        "ddl": ["create table", "livros", "primary key"],
-        "dml_insert": ["insert into", "livros", "values"],
-        "dml_update": ["update", "livros", "set", "where"],
-        "dml_delete": ["delete from", "livros", "where"],
-        "select": ["select", "livros", "where"],
-        "alter": ["alter table", "livros", "add"],
-        "index_select": ["create index", "livros", "select"],
+        "ddl": ["create table", TABELA_BASE, "primary key"],
+        "dml_insert": ["insert into", TABELA_BASE, "values"],
+        "dml_update": ["update", TABELA_BASE, "set", "where"],
+        "dml_delete": ["delete from", TABELA_BASE, "where"],
+        "select": ["select", TABELA_BASE, "where"],
+        "alter": ["alter table", TABELA_BASE, "add"],
+        "index_select": ["create index", TABELA_BASE],
     }
     componentes = palavras_chave.get(ex["tipo"], [])
     if not componentes:
