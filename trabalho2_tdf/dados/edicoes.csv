@@ -1,0 +1,107 @@
+ano,edicao,data_inicio,distancia_km,tempo_total_h,vencedor,equipe_vencedora,vitorias_etapa,etapas_lideradas,com_resultados
+1903,1,1903-07-01,2428.0,94.55,Maurice Garin,La Française,3,6,True
+1904,2,1904-07-02,2428.0,96.1,Henri Cornet,Conte,1,3,True
+1905,3,1905-07-09,2994.0,,Louis Trousselier,Peugeot–Wolber,5,10,True
+1906,4,1906-07-04,4637.0,,René Pottier,Peugeot–Wolber,5,12,True
+1907,5,1907-07-08,4488.0,,Lucien Petit-Breton,Peugeot–Wolber,2,5,True
+1908,6,1908-07-13,4497.0,,Lucien Petit-Breton,Peugeot–Wolber,5,13,True
+1909,7,1909-07-05,4498.0,,François Faber,Alcyon–Dunlop,6,13,True
+1910,8,1910-07-01,4734.0,,Octave Lapize,Alcyon–Dunlop,4,3,True
+1911,9,1911-07-02,5343.0,,Gustave Garrigou,Alcyon–Dunlop,2,13,True
+1912,10,1912-06-30,5289.0,,Odile Defraye,Alcyon–Dunlop,3,13,True
+1913,11,1913-06-29,5287.0,197.9,Philippe Thys,Peugeot–Wolber,1,8,True
+1914,12,1914-06-28,5380.0,200.48,Philippe Thys,Peugeot–Wolber,1,15,True
+1919,13,1919-06-29,5560.0,231.12,Firmin Lambot,La Sportive,1,2,True
+1920,14,1920-06-27,5503.0,228.6,Philippe Thys,La Sportive,4,14,True
+1921,15,1921-06-26,5485.0,221.84,Léon Scieur,La Sportive,2,14,True
+1922,16,1922-06-25,5375.0,222.14,Firmin Lambot,Peugeot–Wolber,0,3,True
+1923,17,1923-06-24,5386.0,222.26,Henri Pélissier,Automoto–Hutchinson,3,6,True
+1924,18,1924-06-22,5425.0,226.31,Ottavio Bottecchia,Automoto,4,15,True
+1925,19,1925-06-21,5440.0,219.17,Ottavio Bottecchia,Automoto–Hutchinson,4,13,True
+1926,20,1926-06-20,5745.0,238.74,Lucien Buysse,Automoto–Hutchinson,2,8,True
+1927,21,1927-06-19,5398.0,198.28,Nicolas Frantz,Alcyon–Dunlop,3,14,False
+1928,22,1928-06-17,5476.0,192.82,Nicolas Frantz,Alcyon–Dunlop,5,22,True
+1929,23,1929-06-30,5286.0,186.65,Maurice De Waele,Alcyon–Dunlop,1,16,True
+1930,24,1930-07-02,4822.0,172.2,André Leducq,Alcyon–Dunlop,2,13,True
+1931,25,1931-06-30,5091.0,177.17,Antonin Magne,France,1,16,False
+1932,26,1932-07-06,4479.0,154.2,André Leducq,France,6,19,True
+1933,27,1933-06-27,4395.0,147.86,Georges Speicher,France,3,12,False
+1934,28,1934-07-03,4470.0,147.23,Antonin Magne,France,3,22,False
+1935,29,1935-07-04,4338.0,141.38,Romain Maes,Belgium,3,21,False
+1936,30,1936-07-07,4442.0,142.79,Sylvère Maes,Belgium,4,14,False
+1937,31,1937-06-30,4415.0,138.98,Roger Lapébie,France,3,4,False
+1938,32,1938-07-05,4694.0,148.49,Gino Bartali,Italy,2,8,False
+1939,33,1939-07-10,4224.0,132.05,Sylvère Maes,Belgium,2,8,False
+1947,34,1947-06-25,4642.0,148.19,Jean Robic,France,3,1,True
+1948,35,1948-06-30,4922.0,147.18,Gino Bartali,Italy,7,9,True
+1949,36,1949-06-30,4808.0,149.68,Fausto Coppi,Italy,3,5,True
+1950,37,1950-07-13,4773.0,145.62,Ferdinand Kübler,Switzerland,3,11,True
+1951,38,1951-07-04,4690.0,142.34,Hugo Koblet,Switzerland,5,11,False
+1952,39,1952-06-25,4898.0,151.96,Fausto Coppi,Italy,5,14,False
+1953,40,1953-07-03,4476.0,129.39,Louison Bobet,France,2,5,True
+1954,41,1954-07-08,4656.0,140.1,Louison Bobet,France,3,14,False
+1955,42,1955-07-07,4495.0,130.49,Louison Bobet,France,2,6,True
+1956,43,1956-07-05,4498.0,124.02,Roger Walkowiak,France,0,8,True
+1957,44,1957-06-27,4669.0,135.74,Jacques Anquetil,France,4,15,True
+1958,45,1958-06-26,4319.0,116.98,Charly Gaul,Luxembourg,4,2,False
+1959,46,1959-06-25,4358.0,123.78,Federico Bahamontes,Spain,1,6,True
+1960,47,1960-06-26,4173.0,112.14,Gastone Nencini,Italy,0,14,True
+1961,48,1961-06-25,4397.0,122.03,Jacques Anquetil,France,2,21,True
+1962,49,1962-06-24,4274.0,114.53,Jacques Anquetil,Saint-Raphaël–Helyett–Hutchinson,2,3,True
+1963,50,1963-06-23,4138.0,113.5,Jacques Anquetil,Saint-Raphaël–Gitane–R. Geminiani,4,5,True
+1964,51,1964-06-22,4504.0,127.16,Jacques Anquetil,Saint-Raphaël–Gitane–Dunlop,4,6,False
+1965,52,1965-06-22,4188.0,116.7,Felice Gimondi,Salvarani,3,18,False
+1966,53,1966-06-21,4329.0,117.57,Lucien Aimar,Ford France–Hutchinson,0,6,False
+1967,54,1967-06-29,4779.0,136.9,Roger Pingeon,Peugeot–BP–Michelin,1,17,True
+1968,55,1968-06-27,4492.0,133.83,Jan Janssen,Pelforth–Sauvage–Lejeune,2,1,False
+1969,56,1969-06-28,4117.0,116.27,Eddy Merckx,Faema,6,18,True
+1970,57,1970-06-27,4254.0,119.53,Eddy Merckx,Faemino–Faema,8,20,False
+1971,58,1971-06-26,3608.0,96.75,Eddy Merckx,Molteni,4,17,False
+1972,59,1972-07-01,3846.0,108.29,Eddy Merckx,Molteni,6,15,False
+1973,60,1973-06-30,4090.0,122.43,Luis Ocaña,Bic,6,14,False
+1974,61,1974-06-27,4098.0,116.28,Eddy Merckx,Molteni,8,18,True
+1975,62,1975-06-26,4000.0,114.59,Bernard Thévenet,Peugeot–BP–Michelin,2,8,True
+1976,63,1976-06-24,4017.0,116.37,Lucien Van Impe,Gitane–Campagnolo,1,12,False
+1977,64,1977-06-30,4096.0,115.64,Bernard Thévenet,Peugeot–Esso–Michelin,1,8,False
+1978,65,1978-06-29,3908.0,108.3,Bernard Hinault,Renault–Gitane–Campagnolo,3,3,False
+1979,66,1979-06-27,3765.0,103.11,Bernard Hinault,Renault–Gitane,7,17,False
+1980,67,1980-06-26,3842.0,109.32,Joop Zoetemelk,TI–Raleigh–Creda,2,10,True
+1981,68,1981-06-25,3753.0,96.33,Bernard Hinault,Renault–Elf–Gitane,5,18,True
+1982,69,1982-07-02,3507.0,92.15,Bernard Hinault,Renault–Elf–Gitane,4,12,True
+1983,70,1983-07-01,3809.0,105.13,Laurent Fignon,Renault–Elf,1,6,True
+1984,71,1984-06-29,4021.0,112.06,Laurent Fignon,Renault–Elf,5,7,False
+1985,72,1985-06-28,4109.0,113.41,Bernard Hinault,La Vie Claire,2,16,True
+1986,73,1986-07-04,4094.0,110.59,Greg LeMond,La Vie Claire,1,7,False
+1987,74,1987-07-01,4231.0,115.46,Stephen Roche,Carrera Jeans–Vagabond,1,3,False
+1988,75,1988-07-02,3286.0,84.46,Pedro Delgado,Reynolds,1,11,True
+1989,76,1989-07-01,3285.0,87.64,Greg LeMond,AD Renting–W-Cup–Bottecchia,3,8,True
+1990,77,1990-06-30,3504.0,90.72,Greg LeMond,Z–Tomasso,0,2,True
+1991,78,1991-07-06,3914.0,101.02,Miguel Induráin,Banesto,2,10,False
+1992,79,1992-07-04,3983.0,100.82,Miguel Induráin,Banesto,3,10,True
+1993,80,1993-07-03,3714.0,95.95,Miguel Induráin,Banesto,2,14,False
+1994,81,1994-07-02,3978.0,103.64,Miguel Induráin,Banesto,1,13,True
+1995,82,1995-07-01,3635.0,92.75,Miguel Induráin,Banesto,2,13,True
+1996,83,1996-06-29,3765.0,95.95,Bjarne Riis,Team Telekom,2,13,True
+1997,84,1997-07-05,3950.0,100.51,Jan Ullrich,Team Telekom,2,12,True
+1998,85,1998-07-11,3875.0,92.83,Marco Pantani,Mercatone Uno–Bianchi,2,7,False
+1999,86,1999-07-03,3687.0,91.54,Lance Armstrong,U.S. Postal Service,4,15,True
+2000,87,2000-07-01,3662.0,92.55,Lance Armstrong,U.S. Postal Service,1,12,True
+2001,88,2001-07-07,3458.0,86.29,Lance Armstrong,U.S. Postal Service,4,8,True
+2002,89,2002-07-06,3272.0,82.09,Lance Armstrong,U.S. Postal Service,4,11,True
+2003,90,2003-07-05,3427.0,83.69,Lance Armstrong,U.S. Postal Service,1,13,True
+2004,91,2004-07-03,3391.0,83.6,Lance Armstrong,U.S. Postal Service,5,7,True
+2005,92,2005-07-02,3593.0,86.25,Lance Armstrong,Discovery Channel,1,17,True
+2006,93,2006-07-01,3657.0,89.67,Óscar Pereiro,Caisse d'Epargne–Illes Balears,0,8,True
+2007,94,2007-07-07,3570.0,91.01,Alberto Contador,Discovery Channel,1,4,True
+2008,95,2008-07-05,3559.0,87.88,Carlos Sastre,Team CSC,1,5,False
+2009,96,2009-07-04,3459.0,85.81,Alberto Contador,Astana,2,7,True
+2010,97,2010-07-03,3642.0,91.99,Andy Schleck,Team Saxo Bank,2,12,True
+2011,98,2011-07-02,3430.0,86.21,Cadel Evans,BMC Racing Team,1,2,True
+2012,99,2012-06-20,3496.0,87.58,Bradley Wiggins,Team Sky,2,14,True
+2013,100,2013-06-29,3404.0,83.94,Chris Froome,Team Sky,3,14,True
+2014,101,2014-07-05,3660.5,89.98,Vincenzo Nibali,Astana,4,19,True
+2015,102,2015-07-04,3360.3,84.77,Chris Froome,Team Sky,1,16,True
+2016,103,2016-07-02,3529.0,89.08,Chris Froome,Team Sky,2,14,True
+2017,104,2017-07-01,3540.0,86.35,Chris Froome,Team Sky,0,15,True
+2018,105,2018-07-07,3349.0,83.29,Geraint Thomas,Team Sky,2,11,False
+2019,106,2019-07-06,3349.0,82.95,Egan Bernal,Team Ineos,0,2,False

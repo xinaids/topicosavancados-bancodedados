@@ -1,0 +1,1432 @@
+ano,ordem,numero,data_etapa,tipo,distancia_km,origem,destino,vencedor
+2017,1,1,2017-07-01,Individual time trial,14.0,Düsseldorf,Düsseldorf,Geraint Thomas
+2017,2,2,2017-07-02,Flat stage,203.5,Düsseldorf,Liège,Marcel Kittel
+2017,3,3,2017-07-03,Medium mountain stage,212.5,Verviers,Longwy,Peter Sagan
+2017,4,4,2017-07-04,Flat stage,207.5,Mondorf-les-Bains,Vittel,Arnaud Démare
+2017,5,5,2017-07-05,Medium mountain stage,160.5,Vittel,La Planche des Belles Filles,Fabio Aru
+2017,6,6,2017-07-06,Flat stage,216.0,Vesoul,Troyes,Marcel Kittel
+2017,7,7,2017-07-07,Flat stage,213.5,Troyes,Nuits-Saint-Georges,Marcel Kittel
+2017,8,8,2017-07-08,Medium mountain stage,187.5,Dole,Station des Rousses,Lilian Calmejane
+2017,9,9,2017-07-09,High mountain stage,181.5,Nantua,Chambéry,Rigoberto Urán
+2017,10,10,2017-07-11,Flat stage,178.0,Périgueux,Bergerac,Marcel Kittel
+2017,11,11,2017-07-12,Flat stage,203.5,Eymet,Pau,Marcel Kittel
+2017,12,12,2017-07-13,High mountain stage,214.5,Pau,Peyragudes,Romain Bardet
+2017,13,13,2017-07-14,High mountain stage,101.0,Saint-Girons,Foix,Warren Barguil
+2017,14,14,2017-07-15,Medium mountain stage,181.5,Blagnac,Rodez,Michael Matthews
+2017,15,15,2017-07-16,Medium mountain stage,189.5,Laissac-Sévérac-l'Église,Le Puy-en-Velay,Bauke Mollema
+2017,16,16,2017-07-18,Medium mountain stage,165.0,Le Puy-en-Velay,Romans-sur-Isère,Michael Matthews
+2017,17,17,2017-07-19,High mountain stage,183.0,La Mure,Serre Chevalier,Primož Roglič
+2017,18,18,2017-07-20,High mountain stage,179.5,Briançon,Col d'Izoard,Warren Barguil
+2017,19,19,2017-07-21,Flat stage,222.5,Embrun,Salon-de-Provence,Edvald Boasson Hagen
+2017,20,20,2017-07-22,Individual time trial,22.5,Marseille,Marseille,Maciej Bodnar
+2017,21,21,2017-07-23,Flat stage,103.0,Montgeron,Paris,Dylan Groenewegen
+2016,1,1,2016-07-02,Flat stage,188.0,Mont Saint-Michel,Utah Beach,Mark Cavendish
+2016,2,2,2016-07-03,Flat stage,183.0,Saint-Lô,Cherbourg-en-Cotentin,Peter Sagan
+2016,3,3,2016-07-04,Flat stage,223.5,Granville,Angers,Mark Cavendish
+2016,4,4,2016-07-05,Flat stage,237.5,Saumur,Limoges,Marcel Kittel
+2016,5,5,2016-07-06,Medium mountain stage,216.0,Limoges,Le Lioran,Greg Van Avermaet
+2016,6,6,2016-07-07,Flat stage,190.5,Arpajon-sur-Cère,Montauban,Mark Cavendish
+2016,7,7,2016-07-08,Medium mountain stage,162.5,L'Isle-Jourdain,Lac de Payolle,Steve Cummings
+2016,8,8,2016-07-09,High mountain stage,184.0,Pau,Bagnères-de-Luchon,Chris Froome
+2016,9,9,2016-07-10,High mountain stage,184.5,Vielha Val d'Aran,Andorra-Arcalis,Tom Dumoulin
+2016,10,10,2016-07-12,Medium mountain stage,197.0,Escaldes-Engordany,Revel,Michael Matthews
+2016,11,11,2016-07-13,Flat stage,162.5,Carcassonne,Montpellier,Peter Sagan
+2016,12,12,2016-07-14,High mountain stage,178.0,Montpellier,Chalet Reynard,Thomas De Gendt
+2016,13,13,2016-07-15,Individual time trial,37.5,Bourg-Saint-Andéol,La Caverne du Pont-d'Arc,Tom Dumoulin
+2016,14,14,2016-07-16,Flat stage,208.5,Montélimar,Villars-les-Dombes,Mark Cavendish
+2016,15,15,2016-07-17,High mountain stage,160.0,Bourg-en-Bresse,Culoz,Jarlinson Pantano
+2016,16,16,2016-07-18,Flat stage,209.0,Moirans-en-Montagne,Bern,Peter Sagan
+2016,17,17,2016-07-20,High mountain stage,184.5,Bern,Finhaut-Émosson,Ilnur Zakarin
+2016,18,18,2016-07-21,Mountain time trial,17.0,Sallanches,Megève,Chris Froome
+2016,19,19,2016-07-22,High mountain stage,146.0,Albertville,Saint Gervais-les-Bains,Romain Bardet
+2016,20,20,2016-07-23,High mountain stage,146.5,Megève,Morzine,Ion Izagirre
+2016,21,21,2016-07-24,Flat stage,113.0,Chantilly,Paris,André Greipel
+2015,1,1,2015-07-04,Individual time trial,13.8,Utrecht,Utrecht,Rohan Dennis
+2015,2,2,2015-07-05,Flat stage,166.0,Utrecht,Zeeland,André Greipel
+2015,3,3,2015-07-06,Flat stage,159.5,Antwerp,Huy,Joaquim Rodríguez
+2015,4,4,2015-07-07,Medium mountain stage,223.5,Seraing,Cambrai,Tony Martin
+2015,5,5,2015-07-08,Flat stage,189.5,Arras,Amiens,André Greipel
+2015,6,6,2015-07-09,Flat stage,191.5,Abbeville,Le Havre,Zdeněk Štybar
+2015,7,7,2015-07-10,Flat stage,190.5,Livarot,Fougères,Mark Cavendish
+2015,8,8,2015-07-11,Flat stage,181.5,Rennes,Mûr-de-Bretagne,Alexis Vuillermoz
+2015,9,9,2015-07-12,Team time trial,28.0,Vannes,Plumelec,BMC Racing Team
+2015,10,10,2015-07-14,High mountain stage,167.0,Tarbes,La Pierre Saint-Martin,Chris Froome
+2015,11,11,2015-07-15,High mountain stage,188.0,Pau,Cauterets,Rafał Majka
+2015,12,12,2015-07-16,High mountain stage,195.0,Lannemezan,Plateau de Beille,Joaquim Rodríguez
+2015,13,13,2015-07-17,Medium mountain stage,198.5,Muret,Rodez,Greg Van Avermaet
+2015,14,14,2015-07-18,Medium mountain stage,178.5,Rodez,Mende,Steve Cummings
+2015,15,15,2015-07-19,Medium mountain stage,183.0,Mende,Valence,André Greipel
+2015,16,16,2015-07-20,Medium mountain stage,201.0,Bourg-de-Péage,Gap,Rubén Plaza Molina
+2015,17,17,2015-07-22,High mountain stage,161.0,Digne-les-Bains,Pra-Loup,Simon Geschke
+2015,18,18,2015-07-23,High mountain stage,186.5,Gap,Saint-Jean-de-Maurienne,Romain Bardet
+2015,19,19,2015-07-24,High mountain stage,138.0,Saint-Jean-de-Maurienne,La Toussuire - Les Sybelles,Vincenzo Nibali
+2015,20,20,2015-07-25,High mountain stage,110.5,Modane,Alpe d'Huez,Thibaut Pinot
+2015,21,21,2015-07-26,Flat stage,109.5,Sèvres,Paris,André Greipel
+2014,1,1,2014-07-05,Flat stage,190.5,Leeds,Harrogate,Marcel Kittel
+2014,2,2,2014-07-06,Medium mountain stage,201.0,York,Sheffield,Vincenzo Nibali
+2014,3,3,2014-07-07,Flat stage,155.0,Cambridge,London,Marcel Kittel
+2014,4,4,2014-07-08,Flat stage,163.5,Le Touquet-Paris-Plage,Lille Metropole,Marcel Kittel
+2014,5,5,2014-07-09,Medium mountain stage,152.5,Ypres,Arenberg Porte du Hainaut,Lars Boom
+2014,6,6,2014-07-10,Flat stage,194.0,Arras,Reims,André Greipel
+2014,7,7,2014-07-11,Flat stage,234.5,Épernay,Nancy,Matteo Trentin
+2014,8,8,2014-07-12,Medium mountain stage,161.0,Tomblaine,Gérardmer La Mauselaine,Blel Kadri
+2014,9,9,2014-07-13,Medium mountain stage,170.0,Gérardmer,Mulhouse,Tony Martin
+2014,10,10,2014-07-14,High mountain stage,161.5,Mulhouse,La Planche des Belles Filles,Vincenzo Nibali
+2014,11,11,2014-07-16,Medium mountain stage,187.5,Besançon,Oyonnax,Tony Gallopin
+2014,12,12,2014-07-17,Flat stage,185.5,Bourg-en-Bresse,Saint-Étienne,Alexander Kristoff
+2014,13,13,2014-07-18,High mountain stage,197.5,Saint-Étienne,Chamrousse,Vincenzo Nibali
+2014,14,14,2014-07-19,High mountain stage,177.0,Grenoble,Risoul,Rafał Majka
+2014,15,15,2014-07-20,Flat stage,222.0,Tallard,Nîmes,Alexander Kristoff
+2014,16,16,2014-07-22,High mountain stage,237.5,Carcassonne,Bagnères-de-Luchon,Michael Rogers
+2014,17,17,2014-07-23,High mountain stage,124.5,Saint-Gaudens,Saint-Lary Pla d’Adet,Rafał Majka
+2014,18,18,2014-07-24,High mountain stage,145.5,Pau,Hautacam,Vincenzo Nibali
+2014,19,19,2014-07-25,Flat stage,208.5,Maubourguet Pays du Val d’Adour,Bergerac,Ramūnas Navardauskas
+2014,20,20,2014-07-26,Individual time trial,54.0,Bergerac,Périgueux,Tony Martin
+2014,21,21,2014-07-27,Flat stage,137.5,Évry,Paris,Marcel Kittel
+2013,1,1,2013-06-29,Flat stage,213.0,Porto-Vecchio,Bastia,Marcel Kittel
+2013,2,2,2013-06-30,Medium mountain stage,156.0,Bastia,Ajaccio,Jan Bakelants
+2013,3,3,2013-07-01,Medium mountain stage,145.5,Ajaccio,Calvi,Simon Gerrans
+2013,4,4,2013-07-02,Team time trial,25.0,Nice,Nice,Orica–GreenEDGE
+2013,5,5,2013-07-03,Flat stage,228.5,Cagnes-sur-Mer,Marseille,Mark Cavendish
+2013,6,6,2013-07-04,Flat stage,176.5,Aix-en-Provence,Montpellier,André Greipel
+2013,7,7,2013-07-05,Flat stage,205.5,Montpellier,Albi,Peter Sagan
+2013,8,8,2013-07-06,High mountain stage,195.0,Castres,Ax 3 Domaines,Chris Froome
+2013,9,9,2013-07-07,High mountain stage,168.5,Saint-Girons,Bagnères-de-Bigorre,Dan Martin
+2013,10,10,2013-07-09,Flat stage,197.0,Saint-Gildas-des-Bois,Saint-Malo,Marcel Kittel
+2013,11,11,2013-07-10,Individual time trial,33.0,Avranches,Mont Saint-Michel,Tony Martin
+2013,12,12,2013-07-11,Flat stage,218.0,Fougères,Tours,Marcel Kittel
+2013,13,13,2013-07-12,Flat stage,173.0,Tours,Saint-Amand-Montrond,Mark Cavendish
+2013,14,14,2013-07-13,Medium mountain stage,191.0,Saint-Pourçain-sur-Sioule,Lyon,Matteo Trentin
+2013,15,15,2013-07-14,High mountain stage,242.5,Givors,Mont Ventoux,Chris Froome
+2013,16,16,2013-07-16,High mountain stage,168.0,Vaison-la-Romaine,Gap,Rui Costa
+2013,17,17,2013-07-17,Individual time trial,32.0,Embrun,Chorges,Chris Froome
+2013,18,18,2013-07-18,High mountain stage,172.5,Gap,Alpe d'Huez,Christophe Riblon
+2013,19,19,2013-07-19,High mountain stage,204.5,Le Bourg-d'Oisans,Le Grand-Bornand,Rui Costa
+2013,20,20,2013-07-20,High mountain stage,125.0,Annecy,Semnoz,Nairo Quintana
+2013,21,21,2013-07-21,Flat stage,133.5,Versailles,Paris,Marcel Kittel
+2012,1,P,2012-06-30,Individual time trial,6.4,Liège,Liège,Fabian Cancellara
+2012,2,1,2012-07-01,Flat stage,198.0,Liège,Seraing,Peter Sagan
+2012,3,2,2012-07-02,Flat stage,207.5,Visé,Tournai,Mark Cavendish
+2012,4,3,2012-07-03,Medium mountain stage,197.0,Orchies,Boulogne-sur-Mer,Peter Sagan
+2012,5,4,2012-07-04,Flat stage,214.5,Abbeville,Rouen,André Greipel
+2012,6,5,2012-07-05,Flat stage,196.5,Rouen,Saint-Quentin,André Greipel
+2012,7,6,2012-07-06,Flat stage,207.5,Épernay,Metz,Peter Sagan
+2012,8,7,2012-07-07,Medium mountain stage,199.0,Tomblaine,La Planche des Belles Filles,Chris Froome
+2012,9,8,2012-07-08,Medium mountain stage,157.5,Belfort,Porrentruy,Thibaut Pinot
+2012,10,9,2012-07-09,Individual time trial,41.5,Arc-et-Senans,Besançon,Bradley Wiggins
+2012,11,10,2012-07-11,High mountain stage,194.5,Mâcon,Bellegarde-sur-Valserine,Thomas Voeckler
+2012,12,11,2012-07-12,High mountain stage,148.0,Albertville,La Toussuire-Les Sybelles,Pierre Rolland
+2012,13,12,2012-07-13,Medium mountain stage,226.0,Saint-Jean-de-Maurienne,Annonay-Davézieux,David Millar
+2012,14,13,2012-07-14,Flat stage,217.0,Saint-Paul-Trois-Châteaux,Cap d'Agde,André Greipel
+2012,15,14,2012-07-15,High mountain stage,191.0,Limoux,Foix,Luis León Sánchez
+2012,16,15,2012-07-16,Flat stage,158.5,Samatan,Pau,Pierrick Fédrigo
+2012,17,16,2012-07-18,High mountain stage,197.0,Pau,Bagnères-de-Luchon,Thomas Voeckler
+2012,18,17,2012-07-19,High mountain stage,143.5,Bagnères-de-Luchon,Peyragudes,Alejandro Valverde
+2012,19,18,2012-07-20,Flat stage,222.5,Blagnac,Brive-la-Gaillarde,Mark Cavendish
+2012,20,19,2012-07-21,Individual time trial,53.5,Bonneval,Chartres,Bradley Wiggins
+2012,21,20,2012-07-22,Flat stage,120.0,Rambouillet,Paris,Mark Cavendish
+2011,1,1,2011-07-02,Flat stage,191.5,Passage du Gois,Mont des Alouettes,Philippe Gilbert
+2011,2,2,2011-07-03,Team time trial,23.0,Les Essarts,Les Essarts,Garmin–Cervélo
+2011,3,3,2011-07-04,Flat stage,198.0,Olonne-sur-Mer,Redon,Tyler Farrar
+2011,4,4,2011-07-05,Flat stage,172.5,Lorient,Mûr-de-Bretagne,Cadel Evans
+2011,5,5,2011-07-06,Flat stage,164.5,Carhaix,Cap Fréhel,Mark Cavendish
+2011,6,6,2011-07-07,Flat stage,226.5,Dinan,Lisieux,Edvald Boasson Hagen
+2011,7,7,2011-07-08,Flat stage,218.0,Le Mans,Châteauroux,Mark Cavendish
+2011,8,8,2011-07-09,Medium mountain stage,189.0,Aigurande,Super Besse,Rui Costa
+2011,9,9,2011-07-10,Medium mountain stage,208.0,Issoire,Saint-Flour,Luis León Sánchez
+2011,10,10,2011-07-12,Flat stage,158.0,Aurillac,Carmaux,André Greipel
+2011,11,11,2011-07-13,Flat stage,167.5,Blaye-les-Mines,Lavaur,Mark Cavendish
+2011,12,12,2011-07-14,High mountain stage,211.0,Cugnaux,Luz Ardiden,Samuel Sánchez
+2011,13,13,2011-07-15,High mountain stage,152.5,Pau,Lourdes,Thor Hushovd
+2011,14,14,2011-07-16,High mountain stage,168.5,Saint-Gaudens,Plateau de Beille,Jelle Vanendert
+2011,15,15,2011-07-17,Flat stage,192.5,Limoux,Montpellier,Mark Cavendish
+2011,16,16,2011-07-19,Medium mountain stage,162.5,Saint-Paul-Trois-Châteaux,Gap,Thor Hushovd
+2011,17,17,2011-07-20,High mountain stage,179.0,Gap,Pinerolo,Edvald Boasson Hagen
+2011,18,18,2011-07-21,High mountain stage,200.5,Pinerolo,Col du Galibier-Serre Chevalier,Andy Schleck
+2011,19,19,2011-07-22,High mountain stage,109.5,Modane,Alpe d'Huez,Pierre Rolland
+2011,20,20,2011-07-23,Individual time trial,42.5,Grenoble,Grenoble,Tony Martin
+2011,21,21,2011-07-24,Flat stage,95.0,Créteil,Paris,Mark Cavendish
+2010,1,P,2010-07-03,Individual time trial,8.9,Rotterdam,Rotterdam,Fabian Cancellara
+2010,2,1,2010-07-04,Flat stage,223.5,Rotterdam,Brussels,Alessandro Petacchi
+2010,3,2,2010-07-05,Flat stage,201.0,Brussels,Spa,Sylvain Chavanel
+2010,4,3,2010-07-06,Flat cobblestone stage,213.0,Wanze,Arenberg Porte du Hainaut,Thor Hushovd
+2010,5,4,2010-07-07,Flat stage,153.5,Cambrai,Reims,Alessandro Petacchi
+2010,6,5,2010-07-08,Flat stage,187.5,Épernay,Montargis,Mark Cavendish
+2010,7,6,2010-07-09,Flat stage,227.5,Montargis,Gueugnon,Mark Cavendish
+2010,8,7,2010-07-10,Medium mountain stage,165.5,Tournus,Station des Rousses,Sylvain Chavanel
+2010,9,8,2010-07-11,Mountain stage,189.0,Station des Rousses,Morzine-Avoriaz,Andy Schleck
+2010,10,9,2010-07-13,Mountain stage,204.5,Morzine-Avoriaz,Saint-Jean-de-Maurienne,Sandy Casar
+2010,11,10,2010-07-14,Medium mountain stage,179.0,Chambéry,Gap,Sérgio Paulinho
+2010,12,11,2010-07-15,Flat stage,184.5,Sisteron,Bourg-lès-Valence,Mark Cavendish
+2010,13,12,2010-07-16,Medium mountain stage,210.5,Bourg-de-Péage,Mende,Joaquim Rodríguez
+2010,14,13,2010-07-17,Flat stage,196.0,Rodez,Revel,Alexander Vinokourov
+2010,15,14,2010-07-18,Mountain stage,184.5,Revel,Ax 3 Domaines,Christophe Riblon
+2010,16,15,2010-07-19,Mountain stage,187.5,Pamiers,Bagnères-de-Luchon,Thomas Voeckler
+2010,17,16,2010-07-20,Mountain stage,199.5,Bagnères-de-Luchon,Pau,Pierrick Fédrigo
+2010,18,17,2010-07-22,Mountain stage,174.0,Pau,Col du Tourmalet,Andy Schleck
+2010,19,18,2010-07-23,Flat stage,198.0,Salies-de-Béarn,Bordeaux,Mark Cavendish
+2010,20,19,2010-07-24,Individual time trial,52.0,Bordeaux,Pauillac,Fabian Cancellara
+2010,21,20,2010-07-25,Flat stage,102.5,Longjumeau,Paris,Mark Cavendish
+2009,1,1,2009-07-04,Individual time trial,15.5,Monaco,Monaco,Fabian Cancellara
+2009,2,2,2009-07-05,Flat stage,187.0,Monaco,Brignoles,Mark Cavendish
+2009,3,3,2009-07-06,Flat stage,196.5,Marseille,La Grande-Motte,Mark Cavendish
+2009,4,4,2009-07-07,Team time trial,39.0,Montpellier,Montpellier,Astana
+2009,5,5,2009-07-08,Flat stage,196.5,Cap d'Agde,Perpignan,Thomas Voeckler
+2009,6,6,2009-07-09,Flat stage,181.5,Girona,Barcelona,Thor Hushovd
+2009,7,7,2009-07-10,Mountain stage,224.0,Barcelona,Andorra-Arcalis,Brice Feillu
+2009,8,8,2009-07-11,Mountain stage,176.5,Andorra la Vella,Saint-Girons,Luis León Sánchez
+2009,9,9,2009-07-12,Mountain stage,160.5,Saint-Gaudens,Tarbes,Pierrick Fédrigo
+2009,10,10,2009-07-14,Flat stage,194.5,Limoges,Issoudun,Mark Cavendish
+2009,11,11,2009-07-15,Flat stage,192.0,Vatan,Saint-Fargeau,Mark Cavendish
+2009,12,12,2009-07-16,Flat stage,211.5,Tonnerre,Vittel,Nicki Sørensen
+2009,13,13,2009-07-17,Medium mountain stage,200.0,Vittel,Colmar,Heinrich Haussler
+2009,14,14,2009-07-18,Flat stage,199.0,Colmar,Besançon,Sergei Ivanov
+2009,15,15,2009-07-19,Mountain Stage,207.5,Pontarlier,Verbier,Alberto Contador
+2009,16,16,2009-07-21,Mountain Stage,159.0,Martigny,Bourg-Saint-Maurice,Sandy Casar
+2009,17,17,2009-07-22,Mountain Stage,169.5,Bourg-Saint-Maurice,Le Grand-Bornand,Fränk Schleck
+2009,18,18,2009-07-23,Individual time trial,40.5,Annecy,Annecy,Alberto Contador
+2009,19,19,2009-07-24,Flat stage,178.0,Bourgoin-Jallieu,Aubenas,Mark Cavendish
+2009,20,20,2009-07-25,Mountain stage,167.0,Montélimar,Mont Ventoux,Juan Manuel Gárate
+2009,21,21,2009-07-26,Flat stage,164.0,Montereau-Fault-Yonne,Paris,Mark Cavendish
+2007,1,P,2007-07-07,Individual time trial,7.9,London,London,Fabian Cancellara
+2007,2,1,2007-07-08,Plain stage,203.0,London,Canterbury,Robbie McEwen
+2007,3,2,2007-07-09,Plain stage,168.5,Dunkirk,Ghent,Gert Steegmans
+2007,4,3,2007-07-10,Plain stage,236.5,Waregem - Compiègne,Waregem - Compiègne,Fabian Cancellara
+2007,5,4,2007-07-11,Plain stage,193.0,Villers-Cotterêts,Joigny,Thor Hushovd
+2007,6,5,2007-07-12,Intermediate stage,182.5,Chablis,Autun,Filippo Pozzato
+2007,7,6,2007-07-13,Plain stage,199.5,Semur-en-Auxois,Bourg-en-Bresse,Tom Boonen
+2007,8,7,2007-07-14,Mountain stage,197.5,Bourg-en-Bresse,Le Grand-Bornand,Linus Gerdemann
+2007,9,8,2007-07-15,Mountain stage,165.0,Le Grand-Bornand,Tignes,Michael Rasmussen
+2007,10,9,2007-07-17,Mountain stage,159.5,Val-d'Isère,Briançon,Mauricio Soler
+2007,11,10,2007-07-18,Plain stage,229.5,Tallard,Marseille,Cédric Vasseur
+2007,12,11,2007-07-19,Plain stage,182.5,Marseille,Montpellier,Robert Hunter
+2007,13,12,2007-07-20,Intermediate stage,178.5,Montpellier,Castres,Tom Boonen
+2007,14,13,2007-07-21,Individual time trial,54.0,Albi,Albi,Cadel Evans
+2007,15,14,2007-07-22,Mountain stage,197.0,Mazamet,Plateau-de-Beille,Alberto Contador
+2007,16,15,2007-07-23,Mountain stage,196.0,Foix,Loudenvielle,Kim Kirchen
+2007,17,16,2007-07-25,Mountain stage,218.5,Orthez,Gourette–Col d'Aubisque,Michael Rasmussen
+2007,18,17,2007-07-26,Intermediate stage,188.5,Pau,Castelsarrasin,Daniele Bennati
+2007,19,18,2007-07-27,Plain stage,211.0,Cahors,Angoulême,Sandy Casar
+2007,20,19,2007-07-28,Individual time trial,55.5,Cognac,Angoulême,Levi Leipheimer
+2007,21,20,2007-07-29,Plain stage,146.0,Marcoussis,Paris,Daniele Bennati
+2006,1,P,2006-07-01,Individual time trial,7.1,Strasbourg,Strasbourg,Thor Hushovd
+2006,2,1,2006-07-02,Flat stage,184.5,Strasbourg,Strasbourg,Jimmy Casper
+2006,3,2,2006-07-03,Flat stage,228.5,Obernai,Esch-sur-Alzette,Robbie McEwen
+2006,4,3,2006-07-04,Hilly stage,216.5,Esch-sur-Alzette,Valkenburg,Matthias Kessler
+2006,5,4,2006-07-05,Flat stage,207.0,Huy,Saint-Quentin,Robbie McEwen
+2006,6,5,2006-07-06,Flat stage,225.0,Beauvais,Caen,Óscar Freire
+2006,7,6,2006-07-07,Flat stage,189.0,Lisieux,Vitré,Robbie McEwen
+2006,8,7,2006-07-08,Individual time trial,52.0,Saint Grégoire,Rennes,Serhiy Honchar
+2006,9,8,2006-07-09,Flat stage,181.0,Saint-Méen-le-Grand,Lorient,Sylvain Calzati
+2006,10,9,2006-07-11,Flat stage,169.5,Bordeaux,Dax,Óscar Freire
+2006,11,10,2006-07-12,Mountain stage,190.5,Cambo-les-Bains,Pau,Juan Miguel Mercado
+2006,12,11,2006-07-13,Mountain stage,206.5,Tarbes,Val d'Aran/Pla-de-Beret,Denis Menchov
+2006,13,12,2006-07-14,Hilly stage,211.5,Luchon,Carcassonne,Yaroslav Popovych
+2006,14,13,2006-07-15,Flat stage,230.0,Béziers,Montélimar,Jens Voigt
+2006,15,14,2006-07-16,Hilly stage,180.5,Montélimar,Gap,Pierrick Fédrigo
+2006,16,15,2006-07-18,Mountain stage,187.0,Gap,Alpe d'Huez,Fränk Schleck
+2006,17,16,2006-07-19,Mountain stage,182.0,Le Bourg-d'Oisans,La Toussuire,Michael Rasmussen
+2006,18,17,2006-07-20,Mountain stage,200.5,Saint-Jean-de-Maurienne,Morzine,Carlos Sastre
+2006,19,18,2006-07-21,Flat stage,197.0,Morzine,Mâcon,Matteo Tosatto
+2006,20,19,2006-07-22,Individual time trial,57.0,Le Creusot,Montceau-les-Mines,Serhiy Honchar
+2006,21,20,2006-07-23,Flat stage,154.5,Antony/Parc de Sceaux,Paris,Thor Hushovd
+2005,1,1,2005-07-02,Individual time trial,19.0,Fromentine,Noirmoutier-en-l'Île,David Zabriskie
+2005,2,2,2005-07-03,Plain stage,181.5,Challans,Les Essarts,Tom Boonen
+2005,3,3,2005-07-04,Plain stage,212.5,La Châtaigneraie,Tours,Tom Boonen
+2005,4,4,2005-07-05,Team time trial,67.5,Tours,Blois,Discovery Channel
+2005,5,5,2005-07-06,Plain stage,183.0,Chambord,Montargis,Robbie McEwen
+2005,6,6,2005-07-07,Plain stage,199.0,Troyes,Nancy,Lorenzo Bernucci
+2005,7,7,2005-07-08,Plain stage,228.5,Lunéville,Karlsruhe,Robbie McEwen
+2005,8,8,2005-07-09,Hilly stage,231.5,Pforzheim,Gérardmer,Pieter Weening
+2005,9,9,2005-07-10,Hilly stage,171.0,Gérardmer,Mulhouse,Michael Rasmussen
+2005,10,10,2005-07-12,Mountain stage,177.0,Grenoble,Courchevel,Alejandro Valverde
+2005,11,11,2005-07-13,Mountain stage,173.0,Courchevel,Briançon,Alexander Vinokourov
+2005,12,12,2005-07-14,Hilly stage,187.0,Briançon,Digne-les-Bains,David Moncoutié
+2005,13,13,2005-07-15,Plain stage,173.5,Miramas,Montpellier,Robbie McEwen
+2005,14,14,2005-07-16,Mountain stage,220.5,Agde,Ax 3 Domaines,Georg Totschnig
+2005,15,15,2005-07-17,Mountain stage,205.5,Lézat-sur-Lèze,Saint-Lary-Soulan Pla d'Adet,George Hincapie
+2005,16,16,2005-07-19,Mountain stage,180.5,Mourenx,Pau,Óscar Pereiro
+2005,17,17,2005-07-20,Plain stage,239.5,Pau,Revel,Paolo Savoldelli
+2005,18,18,2005-07-21,Hilly stage,189.0,Albi,Mende,Marcos Antonio Serrano
+2005,19,19,2005-07-22,Hilly stage,153.5,Issoire,Le Puy-en-Velay,Giuseppe Guerini
+2005,20,20,2005-07-23,Individual time trial,55.5,Saint-Étienne,Saint-Étienne,Lance Armstrong
+2005,21,21,2005-07-24,Plain stage,144.5,Corbeil-Essonnes,Paris,Alexander Vinokourov
+2004,1,P,2004-07-03,Individual time trial,6.1,Liège,Liège,Fabian Cancellara
+2004,2,1,2004-07-04,Plain stage,202.5,Liège,Charleroi,Jaan Kirsipuu
+2004,3,2,2004-07-05,Plain stage,197.0,Charleroi,Namur,Robbie McEwen
+2004,4,3,2004-07-06,Plain stage,210.0,Waterloo,Wasquehal,Jean-Patrick Nazon
+2004,5,4,2004-07-07,Team time trial,64.5,Cambrai,Arras,U.S. Postal Service
+2004,6,5,2004-07-08,Plain stage,200.5,Amiens,Chartres,Stuart O'Grady
+2004,7,6,2004-07-09,Plain stage,196.0,Bonneval,Angers,Tom Boonen
+2004,8,7,2004-07-10,Plain stage,204.5,Châteaubriant,Saint-Brieuc,Filippo Pozzato
+2004,9,8,2004-07-11,Plain stage,168.0,Lamballe,Quimper,Thor Hushovd
+2004,10,9,2004-07-13,Plain stage,160.5,Saint-Léonard-de-Noblat,Guéret,Robbie McEwen
+2004,11,10,2004-07-14,Hilly stage,237.0,Limoges,Saint-Flour,Richard Virenque
+2004,12,11,2004-07-15,Hilly stage,164.0,Saint-Flour,Figeac,David Moncoutié
+2004,13,12,2004-07-16,Mountain stage,197.5,Castelsarrasin,La Mongie,Ivan Basso
+2004,14,13,2004-07-17,Mountain stage,205.5,Lannemezan,Plateau de Beille,Lance Armstrong
+2004,15,14,2004-07-18,Plain stage,192.5,Carcassonne,Nîmes,Aitor González
+2004,16,15,2004-07-20,Mountain stage,180.5,Valréas,Villard-de-Lans,Lance Armstrong
+2004,17,16,2004-07-21,Individual time trial,15.5,Le Bourg-d'Oisans,Alpe d'Huez,Lance Armstrong
+2004,18,17,2004-07-22,Mountain stage,204.5,Le Bourg-d'Oisans,Le Grand-Bornand,Lance Armstrong
+2004,19,18,2004-07-23,Hilly stage,166.5,Annemasse,Lons-le-Saunier,Juan Miguel Mercado
+2004,20,19,2004-07-24,Individual time trial,55.0,Besançon,Besançon,Lance Armstrong
+2004,21,20,2004-07-25,Plain stage,163.0,Montereau-Fault-Yonne,Paris,Tom Boonen
+2003,1,P,2003-07-05,Individual time trial,6.5,Paris,Paris,Bradley McGee
+2003,2,1,2003-07-06,Plain stage,168.0,Saint-Denis,Meaux,Alessandro Petacchi
+2003,3,2,2003-07-07,Plain stage,204.5,La Ferté-sous-Jouarre,Sedan,Baden Cooke
+2003,4,3,2003-07-08,Plain stage,167.5,Charleville-Mézières,Saint-Dizier,Alessandro Petacchi
+2003,5,4,2003-07-09,Team time trial,69.0,Joinville,Saint-Dizier,U.S. Postal Service
+2003,6,5,2003-07-10,Plain stage,196.5,Troyes,Nevers,Alessandro Petacchi
+2003,7,6,2003-07-11,Plain stage,230.0,Nevers,Lyon,Alessandro Petacchi
+2003,8,7,2003-07-12,Stage with mountain(s),230.5,Lyon,Morzine,Richard Virenque
+2003,9,8,2003-07-13,Stage with mountain(s),219.0,Sallanches,Alpe d'Huez,Iban Mayo
+2003,10,9,2003-07-14,Stage with mountain(s),184.5,Le Bourg-d'Oisans,Gap,Alexander Vinokourov
+2003,11,10,2003-07-15,Plain stage,219.5,Gap,Marseille,Jakob Piil
+2003,12,11,2003-07-17,Plain stage,153.5,Narbonne,Toulouse,Juan Antonio Flecha
+2003,13,12,2003-07-18,Individual time trial,47.0,Gaillac,Cap Découverte,Jan Ullrich
+2003,14,13,2003-07-19,Stage with mountain(s),197.5,Toulouse,Ax 3 Domaines,Carlos Sastre
+2003,15,14,2003-07-20,Stage with mountain(s),191.5,Saint-Girons,Loudenvielle,Gilberto Simoni
+2003,16,15,2003-07-21,Stage with mountain(s),159.5,Bagnères-de-Bigorre,Luz Ardiden,Lance Armstrong
+2003,17,16,2003-07-23,Stage with mountain(s),197.5,Pau,Bayonne,Tyler Hamilton
+2003,18,17,2003-07-24,Plain stage,181.0,Dax,Bordeaux,Servais Knaven
+2003,19,18,2003-07-25,Plain stage,203.5,Bordeaux,Saint-Maixent-l'École,Pablo Lastras
+2003,20,19,2003-07-26,Individual time trial,49.0,Pornic,Nantes,David Millar
+2003,21,20,2003-07-27,Plain stage,152.0,Ville-d'Avray,Paris,Jean-Patrick Nazon
+2002,1,P,2002-07-06,Individual time trial,7.0,Luxembourg City,Luxembourg City,Lance Armstrong
+2002,2,1,2002-07-07,Plain stage,192.5,Luxembourg City,Luxembourg City,Rubens Bertogliati
+2002,3,2,2002-07-08,Plain stage,181.0,Luxembourg City,Saarbrücken,Óscar Freire
+2002,4,3,2002-07-09,Plain stage,174.5,Metz,Reims,Robbie McEwen
+2002,5,4,2002-07-10,Team time trial,67.5,Épernay,Château-Thierry,ONCE–Eroski
+2002,6,5,2002-07-11,Plain stage,195.0,Soissons,Rouen,Jaan Kirsipuu
+2002,7,6,2002-07-12,Plain stage,199.5,Forges-les-Eaux,Alençon,Erik Zabel
+2002,8,7,2002-07-13,Plain stage,176.0,Bagnoles-de-l'Orne,Avranches,Bradley McGee
+2002,9,8,2002-07-14,Plain stage,217.5,Saint-Martin-de-Landelles,Plouay,Karsten Kroon
+2002,10,9,2002-07-15,Individual time trial,52.0,Lanester,Lorient,Santiago Botero
+2002,11,10,2002-07-17,Plain stage,147.0,Bazas,Pau,Patrice Halgand
+2002,12,11,2002-07-18,Stage with mountain(s),158.0,Pau,La Mongie,Lance Armstrong
+2002,13,12,2002-07-19,Stage with mountain(s),199.5,Lannemezan,Plateau de Beille,Lance Armstrong
+2002,14,13,2002-07-20,Plain stage,171.0,Lavelanet,Béziers,David Millar
+2002,15,14,2002-07-21,Stage with mountain(s),221.0,Lodève,Mont Ventoux,Richard Virenque
+2002,16,15,2002-07-23,Hilly stage,226.5,Vaison-la-Romaine,Les Deux Alpes,Santiago Botero
+2002,17,16,2002-07-24,Stage with mountain(s),179.5,Les Deux Alpes,La Plagne,Michael Boogerd
+2002,18,17,2002-07-25,Stage with mountain(s),142.0,Aime,Cluses,Dario Frigo
+2002,19,18,2002-07-26,Hilly stage,176.5,Cluses,Bourg-en-Bresse,Thor Hushovd
+2002,20,19,2002-07-27,Individual time trial,50.0,Régnié-Durette,Mâcon,Lance Armstrong
+2002,21,20,2002-07-28,Plain stage,144.0,Melun,Paris,Robbie McEwen
+2001,1,P,2001-07-07,Individual time trial,8.2,Dunkirk,Dunkirk,Christophe Moreau
+2001,2,1,2001-07-08,Plain stage,194.5,Saint-Omer,Boulogne-sur-Mer,Erik Zabel
+2001,3,2,2001-07-09,Plain stage,220.5,Calais,Antwerp,Marc Wauters
+2001,4,3,2001-07-10,Plain stage,198.5,Antwerp,Seraing,Erik Zabel
+2001,5,4,2001-07-11,Plain stage,215.0,Huy,Verdun,Laurent Jalabert
+2001,6,5,2001-07-12,Team time trial,67.0,Verdun,Bar-le-Duc,Crédit Agricole
+2001,7,6,2001-07-13,Plain stage,211.5,Commercy,Strasbourg,Jaan Kirsipuu
+2001,8,7,2001-07-14,Hilly stage,162.5,Strasbourg,Colmar,Laurent Jalabert
+2001,9,8,2001-07-15,Plain stage,222.5,Colmar,Pontarlier,Erik Dekker
+2001,10,9,2001-07-16,Plain stage,185.0,Pontarlier,Aix-les-Bains,Serguei Ivanov
+2001,11,10,2001-07-17,Stage with mountain(s),209.0,Aix-les-Bains,Alpe d'Huez,Lance Armstrong
+2001,12,11,2001-07-18,Individual time trial,32.0,Grenoble,Chamrousse,Lance Armstrong
+2001,13,12,2001-07-20,Stage with mountain(s),166.5,Perpignan,Plateau de Bonascre,Félix Cárdenas
+2001,14,13,2001-07-21,Stage with mountain(s),194.0,Foix,Saint-Lary-Soulan Pla d'Adet,Lance Armstrong
+2001,15,14,2001-07-22,Stage with mountain(s),141.5,Tarbes,Luz Ardiden,Roberto Laiseka
+2001,16,15,2001-07-24,Plain stage,232.5,Pau,Lavaur,Rik Verbrugghe
+2001,17,16,2001-07-25,Plain stage,229.5,Castelsarrasin,Sarran,Jens Voigt
+2001,18,17,2001-07-26,Plain stage,194.0,Brive-la-Gaillarde,Montluçon,Serge Baguet
+2001,19,18,2001-07-27,Individual time trial,61.0,Montluçon,Saint-Amand-Montrond,Lance Armstrong
+2001,20,19,2001-07-28,Plain stage,149.5,Orléans,Évry,Erik Zabel
+2001,21,20,2001-07-29,Plain stage,160.5,Corbeil-Essonnes,Paris,Ján Svorada
+2000,1,1,2000-07-01,Individual time trial,16.5,Futuroscope,Futuroscope,David Millar
+2000,2,2,2000-07-02,Plain stage,194.0,Futuroscope,Loudun,Tom Steels
+2000,3,3,2000-07-03,Plain stage,161.5,Loudun,Nantes,Tom Steels
+2000,4,4,2000-07-04,Team time trial,70.0,Nantes,Saint-Nazaire,ONCE–Deutsche Bank
+2000,5,5,2000-07-05,Plain stage,202.0,Vannes,Vitré,Marcel Wüst
+2000,6,6,2000-07-06,Plain stage,198.5,Vitré,Tours,Leon van Bon
+2000,7,7,2000-07-07,Plain stage,205.5,Tours,Limoges,Christophe Agnolutto
+2000,8,8,2000-07-08,Plain stage,203.5,Limoges,Villeneuve-sur-Lot,Erik Dekker
+2000,9,9,2000-07-09,Plain stage,181.0,Agen,Dax,Paolo Bettini
+2000,10,10,2000-07-10,Stage with mountain(s),205.0,Dax,Hautacam,Javier Otxoa
+2000,11,11,2000-07-11,Hilly stage,218.5,Bagnères-de-Bigorre,Revel,Erik Dekker
+2000,12,12,2000-07-13,Stage with mountain(s),149.0,Carpentras,Mont Ventoux,Marco Pantani
+2000,13,13,2000-07-14,Plain stage,185.5,Avignon,Draguignan,José Vicente Garcia
+2000,14,14,2000-07-15,Stage with mountain(s),249.5,Draguignan,Briançon,Santiago Botero
+2000,15,15,2000-07-16,Stage with mountain(s),173.5,Briançon,Courchevel,Marco Pantani
+2000,16,16,2000-07-18,Stage with mountain(s),196.5,Courchevel,Morzine,Richard Virenque
+2000,17,17,2000-07-19,Hilly stage,155.0,Évian-les-Bains,Lausanne,Erik Dekker
+2000,18,18,2000-07-20,Plain stage,246.5,Lausanne,Freiburg,Salvatore Commesso
+2000,19,19,2000-07-21,Individual time trial,58.5,Freiburg,Mulhouse,Lance Armstrong
+2000,20,20,2000-07-22,Plain stage,254.5,Belfort,Troyes,Erik Zabel
+2000,21,21,2000-07-23,Plain stage,138.0,Paris,Paris,Stefano Zanini
+1999,1,P,1999-07-03,Individual time trial,6.8,Le Puy du Fou,Le Puy du Fou,Lance Armstrong
+1999,2,1,1999-07-04,Plain stage,208.0,Montaigu,Challans,Jaan Kirsipuu
+1999,3,2,1999-07-05,Plain stage,176.0,Challans,Saint-Nazaire,Tom Steels
+1999,4,3,1999-07-06,Plain stage,194.5,Nantes,Laval,Tom Steels
+1999,5,4,1999-07-07,Plain stage,194.5,Laval,Blois,Mario Cipollini
+1999,6,5,1999-07-08,Plain stage,233.5,Bonneval,Amiens,Mario Cipollini
+1999,7,6,1999-07-09,Plain stage,171.5,Amiens,Maubeuge,Mario Cipollini
+1999,8,7,1999-07-10,Plain stage,227.0,Avesnes-sur-Helpe,Thionville,Mario Cipollini
+1999,9,8,1999-07-11,Individual time trial,56.5,Metz,Metz,Lance Armstrong
+1999,10,9,1999-07-13,Stage with mountain(s),213.5,Le Grand-Bornand,Sestrières,Lance Armstrong
+1999,11,10,1999-07-14,Stage with mountain(s),220.5,Sestrières,Alpe d'Huez,Giuseppe Guerini
+1999,12,11,1999-07-15,Hilly stage,198.5,Le Bourg-d'Oisans,Saint-Étienne,Ludo Dierckxsens
+1999,13,12,1999-07-16,Hilly stage,201.5,Saint-Galmier,Saint-Flour,David Etxebarria
+1999,14,13,1999-07-17,Hilly stage,236.5,Saint-Flour,Albi,Salvatore Commesso
+1999,15,14,1999-07-18,Plain stage,199.0,Castres,Saint-Gaudens,Dmitri Konychev
+1999,16,15,1999-07-20,Stage with mountain(s),173.0,Saint-Gaudens,Piau-Engaly,Fernando Escartín
+1999,17,16,1999-07-21,Stage with mountain(s),192.0,Lannemezan,Pau,David Etxebarria
+1999,18,17,1999-07-22,Plain stage,200.0,Mourenx,Bordeaux,Tom Steels
+1999,19,18,1999-07-23,Plain stage,187.5,Jonzac,Futuroscope,Giampaolo Mondini
+1999,20,19,1999-07-24,Individual time trial,57.0,Futuroscope,Futuroscope,Lance Armstrong
+1999,21,20,1999-07-25,Plain stage,143.5,Arpajon,Paris,Robbie McEwen
+1997,1,P,1997-07-05,Individual time trial,7.3,Rouen,Rouen,Chris Boardman
+1997,2,1,1997-07-06,Flat stage,192.0,Rouen,Forges-les-Eaux,Mario Cipollini
+1997,3,2,1997-07-07,Flat stage,262.0,Saint-Valery-en-Caux,Vire,Mario Cipollini
+1997,4,3,1997-07-08,Flat stage,224.0,Vire,Plumelec,Erik Zabel
+1997,5,4,1997-07-09,Flat stage,223.0,Plumelec,Le Puy du Fou,Nicola Minali
+1997,6,5,1997-07-10,Flat stage,261.5,Chantonnay,La Châtre,Cédric Vasseur
+1997,7,6,1997-07-11,Flat stage,217.5,Le Blanc,Marennes,Jeroen Blijlevens
+1997,8,7,1997-07-12,Flat stage,194.0,Marennes,Bordeaux,Erik Zabel
+1997,9,8,1997-07-13,Flat stage,161.5,Sauternes,Pau,Erik Zabel
+1997,10,9,1997-07-14,Mountain stage,182.0,Pau,Loudenvielle,Laurent Brochard
+1997,11,10,1997-07-15,Mountain stage,252.5,Luchon,Andorra Arcalis,Jan Ullrich
+1997,12,11,1997-07-16,Hilly stage,192.0,Andorra Arcalis,Perpignan,Laurent Desbiens
+1997,13,12,1997-07-18,Individual time trial,55.0,Saint-Étienne,Saint-Étienne,Jan Ullrich
+1997,14,13,1997-07-19,Mountain stage,203.5,Saint-Étienne,Alpe d'Huez,Marco Pantani
+1997,15,14,1997-07-20,Mountain stage,148.0,Le Bourg-d'Oisans,Courchevel,Richard Virenque
+1997,16,15,1997-07-21,Mountain stage,208.5,Courchevel,Morzine,Marco Pantani
+1997,17,16,1997-07-22,Hilly stage,181.0,Morzine,Fribourg,Christophe Mengin
+1997,18,17,1997-07-23,Flat stage,218.5,Fribourg,Colmar,Neil Stephens
+1997,19,18,1997-07-24,Hilly stage,175.5,Colmar,Montbéliard,Didier Rous
+1997,20,19,1997-07-25,Flat stage,172.0,Montbéliard,Dijon,Mario Traversoni
+1997,21,20,1997-07-26,Individual time trial,63.0,Disneyland Paris,Disneyland Paris,Abraham Olano
+1997,22,21,1997-07-27,Flat stage,149.5,Disneyland Paris,Paris,Nicola Minali
+1996,1,P,1996-06-29,Individual time trial,9.4,'s-Hertogenbosch,'s-Hertogenbosch,Alex Zülle
+1996,2,1,1996-06-30,Plain stage,209.0,'s-Hertogenbosch,'s-Hertogenbosch,Frédéric Moncassin
+1996,3,2,1996-07-01,Plain stage,247.5,'s-Hertogenbosch,Wasquehal,Mario Cipollini
+1996,4,3,1996-07-02,Plain stage,195.0,Wasquehal,Nogent-sur-Oise,Erik Zabel
+1996,5,4,1996-07-03,Plain stage,232.0,Soissons,Lac de Madine,Cyril Saugrain
+1996,6,5,1996-07-04,Plain stage,242.0,Lac de Madine,Besançon,Jeroen Blijlevens
+1996,7,6,1996-07-05,Hilly stage,207.0,Arc-et-Senans,Aix-les-Bains,Michael Boogerd
+1996,8,7,1996-07-06,Stage with mountain(s),200.0,Chambéry,Les Arcs,Luc Leblanc
+1996,9,8,1996-07-07,Individual time trial,30.5,Bourg-Saint-Maurice,Val d'Isère,Evgueni Berzin
+1996,10,9,1996-07-08,Stage with mountain(s),46.0,Le Monêtier-les-Bains,Sestriere,Bjarne Riis
+1996,11,10,1996-07-09,Hilly stage,208.5,Turin,Gap,Erik Zabel
+1996,12,11,1996-07-11,Hilly stage,202.0,Gap,Valence,José Jaime Gonzalez
+1996,13,12,1996-07-12,Hilly stage,143.5,Valence,Le Puy-en-Velay,Pascal Richard
+1996,14,13,1996-07-13,Hilly stage,177.0,Le Puy-en-Velay,Super Besse,Rolf Sørensen
+1996,15,14,1996-07-14,Hilly stage,186.5,Besse,Tulle,Djamolidine Abduzhaparov
+1996,16,15,1996-07-15,Plain stage,176.0,Brive-la-Gaillarde,Villeneuve-sur-Lot,Massimo Podenzana
+1996,17,16,1996-07-16,Stage with mountain(s),199.0,Agen,Hautacam,Bjarne Riis
+1996,18,17,1996-07-17,Stage with mountain(s),262.0,Argelès-Gazost,Pamplona,Laurent Dufaux
+1996,19,18,1996-07-18,Hilly stage,154.5,Pamplona,Hendaye,Bart Voskamp
+1996,20,19,1996-07-19,Plain stage,226.5,Hendaye,Bordeaux,Frédéric Moncassin
+1996,21,20,1996-07-20,Individual time trial,63.5,Bordeaux,Saint-Émilion,Jan Ullrich
+1996,22,21,1996-07-21,Plain stage,147.5,Palaiseau,Paris,Fabio Baldato
+1995,1,P,1995-07-01,Individual time trial,7.3,Saint-Brieuc,Saint-Brieuc,Jacky Durand
+1995,2,1,1995-07-02,Plain stage,233.5,Dinan,Lannion,Fabio Baldato
+1995,3,2,1995-07-03,Plain stage,235.5,Perros-Guirec,Vitre,Mario Cipollini
+1995,4,3,1995-07-04,Team time trial,67.0,Mayenne,Alençon,Gewiss–Ballan
+1995,5,4,1995-07-05,Plain stage,162.0,Alençon,Le Havre,Mario Cipollini
+1995,6,5,1995-07-06,Plain stage,261.0,Fécamp,Dunkirk,Jeroen Blijlevens
+1995,7,6,1995-07-07,Plain stage,202.0,Dunkirk,Charleroi,Erik Zabel
+1995,8,7,1995-07-08,Hilly stage,203.0,Charleroi,Liège,Johan Bruyneel
+1995,9,8,1995-07-09,Individual time trial,54.0,Huy,Seraing,Miguel Indurain
+1995,10,9,1995-07-11,Stage with mountain(s),160.0,Le Grand-Bornand,La Plagne,Alex Zülle
+1995,11,10,1995-07-12,Stage with mountain(s),162.5,La Plagne,L'Alpe d'Huez,Marco Pantani
+1995,12,11,1995-07-13,Hilly stage,199.0,Le Bourg-d'Oisans,Saint-Étienne,Maximilian Sciandri
+1995,13,12,1995-07-14,Hilly stage,222.5,Saint-Étienne,Mende,Laurent Jalabert
+1995,14,13,1995-07-15,Plain stage,245.0,Mende,Revel,Serhiy Utchakov
+1995,15,14,1995-07-16,Stage with mountain(s),164.0,Saint-Orens-de-Gameville,Guzet-Neige,Marco Pantani
+1995,16,15,1995-07-18,Stage with mountain(s),206.0,Saint-Girons,Cauterets,Richard Virenque
+1995,17,16,1995-07-19,Stage with mountain(s),149.0,Tarbes,Pau,Cancelled
+1995,18,17,1995-07-20,Plain stage,246.0,Pau,Bordeaux,Erik Zabel
+1995,19,18,1995-07-21,Plain stage,166.5,Montpon-Ménestérol,Limoges,Lance Armstrong
+1995,20,19,1995-07-22,Individual time trial,46.5,Lac de Vassivière,Lac de Vassivière,Miguel Indurain
+1995,21,20,1995-07-23,Plain stage,155.0,Sainte-Geneviève-des-Bois,Paris,Djamolidine Abdoujaparov
+1994,1,P,1994-07-02,Individual time trial,7.2,Lille,Lille,Chris Boardman
+1994,2,1,1994-07-03,Plain stage,234.0,Lille,Armentières,Djamolidine Abdoujaparov
+1994,3,2,1994-07-04,Plain stage,203.5,Roubaix,Boulogne-sur-Mer,Jean-Paul van Poppel
+1994,4,3,1994-07-05,Team time trial,66.5,Calais,Eurotunnel,GB–MG Maglificio
+1994,5,4,1994-07-06,Plain stage,204.5,Dover, Brighton,Francisco Cabello
+1994,6,5,1994-07-07,Plain stage,187.0,Portsmouth,Portsmouth,Nicola Minali
+1994,7,6,1994-07-08,Plain stage,270.5,Cherbourg,Rennes,Gianluca Bortolami
+1994,8,7,1994-07-09,Plain stage,259.5,Rennes,Futuroscope,Ján Svorada
+1994,9,8,1994-07-10,Plain stage,218.5,Poitiers,Trélissac,Bo Hamburger
+1994,10,9,1994-07-11,Individual time trial,64.0,Périgueux,Bergerac,Miguel Indurain
+1994,11,10,1994-07-12,Plain stage,160.5,Bergerac,Cahors,Jacky Durand
+1994,12,11,1994-07-13,Stage with mountain(s),263.5,Cahors,Hautacam,Luc Leblanc
+1994,13,12,1994-07-15,Stage with mountain(s),204.5,Lourdes,Luz Ardiden,Richard Virenque
+1994,14,13,1994-07-16,Plain stage,223.0,Bagnères-de-Bigorre,Albi,Bjarne Riis
+1994,15,14,1994-07-17,Plain stage,202.0,Castres,Montpellier,Rolf Sørensen
+1994,16,15,1994-07-18,Stage with mountain(s),231.0,Montpellier,Carpentras,Eros Poli
+1994,17,16,1994-07-19,Stage with mountain(s),224.5,Valréas,Alpe d'Huez,Roberto Conti
+1994,18,17,1994-07-20,Stage with mountain(s),149.0,Le Bourg-d'Oisans,Val Thorens,Nelson Rodriguez
+1994,19,18,1994-07-21,Stage with mountain(s),174.5,Moutiers,Cluses,Piotr Ugrumov
+1994,20,19,1994-07-22,Mountain time trial,47.5,Cluses,Avoriaz,Piotr Ugrumov
+1994,21,20,1994-07-23,Hilly stage,208.5,Morzine,Lac Saint-Point,Djamolidine Abdoujaparov
+1994,22,21,1994-07-24,Plain stage,175.0,Disneyland Paris,Paris,Eddy Seigneur
+1992,1,P,1992-07-04,Individual time trial,8.0,San Sebastián,San Sebastián,Miguel Indurain
+1992,2,1,1992-07-05,Hilly stage,194.5,San Sebastián,San Sebastián,Dominique Arnould
+1992,3,2,1992-07-06,Hilly stage,255.0,San Sebastián,Pau,Javier Murguialday
+1992,4,3,1992-07-07,Plain stage,210.0,Pau,Bordeaux,Rob Harmeling
+1992,5,4,1992-07-08,Team time trial,63.5,Libourne,Libourne,Panasonic–Sportlife
+1992,6,5,1992-07-09,Plain stage,196.0,Nogent-sur-Oise,Wasquehal,Guido Bontempi
+1992,7,6,1992-07-10,Plain stage,167.0,Roubaix,Brussels,Laurent Jalabert
+1992,8,7,1992-07-11,Plain stage,196.5,Brussels,Valkenburg,Gilles Delion
+1992,9,8,1992-07-12,Plain stage,206.5,Valkenburg,Koblenz,Jan Nevens
+1992,10,9,1992-07-13,Individual time trial,65.0,Luxembourg City,Luxembourg City,Miguel Indurain
+1992,11,10,1992-07-14,Plain stage,217.0,Luxembourg City,Strasbourg,Jean-Paul van Poppel
+1992,12,11,1992-07-15,Hilly stage,249.5,Strasbourg,Mulhouse,Laurent Fignon
+1992,13,12,1992-07-16,Hilly stage,267.5,Dole,St Gervais,Rolf Järmann
+1992,14,13,1992-07-18,Stage with mountain(s),254.5,St Gervais,Sestriere,Claudio Chiappucci
+1992,15,14,1992-07-19,Stage with mountain(s),186.5,Sestriere,Alpe d'Huez,Andrew Hampsten
+1992,16,15,1992-07-20,Hilly stage,198.0,Le Bourg-d'Oisans,Saint-Étienne,Franco Chioccioli
+1992,17,16,1992-07-21,Hilly stage,212.0,Saint-Étienne,La Bourboule,Stephen Roche
+1992,18,17,1992-07-22,Plain stage,189.0,La Bourboule,Montluçon,Jean-Claude Colotti
+1992,19,18,1992-07-23,Plain stage,212.0,Montluçon,Tours,Thierry Marie
+1992,20,19,1992-07-24,Individual time trial,64.0,Tours,Blois,Miguel Indurain
+1992,21,20,1992-07-25,Plain stage,222.0,Blois,Nanterre,Peter De Clercq
+1992,22,21,1992-07-26,Plain stage,141.0,La Défense,Paris,Olaf Ludwig
+1990,1,P,1990-06-30,Individual time trial,6.3,Futuroscope,Futuroscope,Thierry Marie
+1990,2,1,1990-07-01,Plain stage,138.5,Futuroscope,Futuroscope,Frans Maassen
+1990,3,2,1990-07-01,Team time trial,44.5,Futuroscope,Futuroscope,Panasonic–Sportlife
+1990,4,3,1990-07-02,Plain stage,233.0,Poitiers,Nantes,Moreno Argentin
+1990,5,4,1990-07-03,Plain stage,203.0,Nantes,Mont Saint-Michel,Johan Museeuw
+1990,6,5,1990-07-04,Plain stage,301.0,Avranches,Rouen,Gerrit Solleveld
+1990,7,6,1990-07-06,Plain stage,202.5,Sarrebourg,Vittel,Jelle Nijdam
+1990,8,7,1990-07-07,Individual time trial,61.5,Vittel,Épinal,Raúl Alcalá
+1990,9,8,1990-07-08,Plain stage,181.5,Épinal,Besançon,Olaf Ludwig
+1990,10,9,1990-07-09,Hilly stage,196.0,Besançon,Geneva,Massimo Ghirotto
+1990,11,10,1990-07-10,Stage with mountain(s),118.5,Geneva,Saint-Gervais,Thierry Claveyrolat
+1990,12,11,1990-07-11,Stage with mountain(s),182.5,Saint-Gervais,Alpe d'Huez,Gianni Bugno
+1990,13,12,1990-07-12,Mountain time trial,33.5,Fontaine,Villard-de-Lans,Erik Breukink
+1990,14,13,1990-07-14,Hilly stage,149.0,Villard-de-Lans,Saint-Étienne,Eduardo Chozas
+1990,15,14,1990-07-15,Hilly stage,205.0,Le Puy-en-Velay,Millau,Marino Lejarreta
+1990,16,15,1990-07-16,Plain stage,170.0,Millau,Revel,Charly Mottet
+1990,17,16,1990-07-17,Stage with mountain(s),215.0,Blagnac,Luz Ardiden,Miguel Indurain
+1990,18,17,1990-07-18,Stage with mountain(s),150.0,Lourdes,Pau,Dmitri Konychev
+1990,19,18,1990-07-19,Plain stage,202.0,Pau,Bordeaux,Gianni Bugno
+1990,20,19,1990-07-20,Plain stage,182.5,Castillon-la-Bataille,Limoges,Guido Bontempi
+1990,21,20,1990-07-21,Individual time trial,45.5,Lac de Vassivière,Lac de Vassivière,Erik Breukink
+1990,22,21,1990-07-22,Plain stage,182.5,Brétigny-sur-Orge,Paris,Johan Museeuw
+1989,1,P,1989-07-01,Individual time trial,7.8,Luxembourg City,Luxembourg City,Erik Breukink
+1989,2,1,1989-07-02,Plain stage,135.5,Luxembourg City,Luxembourg City,Acácio da Silva
+1989,3,2,1989-07-02,Team time trial,46.0,Luxembourg City,Luxembourg City,Super U–Raleigh–Fiat
+1989,4,3,1989-07-03,Plain stage,241.0,Luxembourg City,Spa,Raúl Alcalá
+1989,5,4,1989-07-04,Flat cobblestone stage,255.0,Liège,Wasquehal,Jelle Nijdam
+1989,6,5,1989-07-06,Individual time trial,73.0,Dinard,Rennes,Greg LeMond
+1989,7,6,1989-07-07,Plain stage,259.0,Rennes,Futuroscope,Joël Pelier
+1989,8,7,1989-07-08,Plain stage,258.5,Poitiers,Bordeaux,Etienne De Wilde
+1989,9,8,1989-07-09,Plain stage,157.0,Labastide-d'Armagnac,Pau,Martin Earley
+1989,10,9,1989-07-10,Stage with mountain(s),147.0,Pau,Cauterets,Miguel Induráin
+1989,11,10,1989-07-11,Stage with mountain(s),136.0,Cauterets,Superbagnères,Robert Millar
+1989,12,11,1989-07-12,Plain stage,158.5,Luchon,Blagnac,Mathieu Hermans
+1989,13,12,1989-07-13,Plain stage,242.0,Toulouse,Montpellier,Valerio Tebaldi
+1989,14,13,1989-07-14,Plain stage,179.0,Montpellier,Marseille,Vincent Barteau
+1989,15,14,1989-07-15,Hilly stage,240.0,Marseille,Gap,Jelle Nijdam
+1989,16,15,1989-07-16,Mountain time trial,39.0,Gap,Orcières-Merlette,Steven Rooks
+1989,17,16,1989-07-18,Stage with mountain(s),175.0,Gap,Briançon,Pascal Richard
+1989,18,17,1989-07-19,Stage with mountain(s),165.0,Briançon,Alpe d'Huez,Gert-Jan Theunisse
+1989,19,18,1989-07-20,Stage with mountain(s),91.5,Le Bourg-d'Oisans,Villard-de-Lans,Laurent Fignon
+1989,20,19,1989-07-21,Stage with mountain(s),125.0,Villard-de-Lans,Aix-les-Bains,Greg LeMond
+1989,21,20,1989-07-22,Plain stage,130.0,Aix-les-Bains,L'Isle-d'Abeau,Giovanni Fidanza
+1989,22,21,1989-07-23,Individual time trial,24.5,Versailles,Paris,Greg LeMond
+1988,1,P,1988-07-03,Individual time trial,1.0,Pornichet,La Baule,Guido Bontempi
+1988,2,1,1988-07-04,Plain stage,92.0,Pontchâteau,Machecoul,Steve Bauer
+1988,3,2,1988-07-04,Team time trial,48.0,La Haie-Fouassière,Ancenis,Panasonic–Isostar–Colnago–Agu
+1988,4,3,1988-07-05,Plain stage,213.0,Nantes,Le Mans,Jean-Paul van Poppel
+1988,5,4,1988-07-06,Plain stage,158.0,Le Mans,Évreux,Acácio da Silva
+1988,6,5,1988-07-07,Plain stage,148.0,Neufchâtel-en-Bray,Liévin,Jelle Nijdam
+1988,7,6,1988-07-08,Individual time trial,52.0,Liévin,Wasquehal,Sean Yates
+1988,8,7,1988-07-09,Plain stage,225.0,Wasquehal,Reims,Valerio Tebaldi
+1988,9,8,1988-07-10,Plain stage,219.0,Reims,Nancy,Rolf Gölz
+1988,10,9,1988-07-11,Hilly stage,161.0,Nancy,Strasbourg,Jérôme Simon
+1988,11,10,1988-07-12,Hilly stage,149.0,Belfort,Besançon,Jean-Paul van Poppel
+1988,12,11,1988-07-13,Stage with mountain(s),232.0,Besançon,Morzine,Fabio Parra
+1988,13,12,1988-07-14,Stage with mountain(s),227.0,Morzine,Alpe d'Huez,Steven Rooks
+1988,14,13,1988-07-15,Mountain time trial,38.0,Grenoble,Villard-de-Lans,Pedro Delgado
+1988,15,14,1988-07-17,Stage with mountain(s),163.0,Blagnac,Guzet-Neige,Massimo Ghirotto
+1988,16,15,1988-07-18,Stage with mountain(s),187.0,Saint-Girons,Luz Ardiden,Laudelino Cubino
+1988,17,16,1988-07-19,Plain stage,35.0,Luz Ardiden,Pau,Adrie van der Poel
+1988,18,17,1988-07-19,Plain stage,198.0,Pau,Bordeaux,Jean-Paul van Poppel
+1988,19,18,1988-07-20,Plain stage,94.0,Ruelle-sur-Touvre,Limoges,Gianni Bugno
+1988,20,19,1988-07-21,Hilly stage,188.0,Limoges,Puy de Dôme,Johnny Weltz
+1988,21,20,1988-07-22,Plain stage,223.0,Clermont-Ferrand,Chalon-sur-Saône,Thierry Marie
+1988,22,21,1988-07-23,Individual time trial,46.0,Santenay,Santenay,Juan Martinéz
+1988,23,22,1988-07-24,Plain stage,173.0,Nemours,Paris,Jean-Paul van Poppel
+1985,1,P,1985-06-28,Individual time trial,6.0,Plumelec,Plumelec,Bernard Hinault
+1985,2,1,1985-06-29,Plain stage,256.0,Vannes,Lanester,Rudy Matthijs
+1985,3,2,1985-06-30,Plain stage,242.0,Lorient,Vitre,Rudy Matthijs
+1985,4,3,1985-07-01,Team time trial,73.0,Vitre,Fougères,La Vie Claire
+1985,5,4,1985-07-02,Plain stage,239.0,Fougères,Pont-Audemer,Gerrit Solleveld
+1985,6,5,1985-07-03,Plain stage with cobblestones,224.0,Neufchâtel-en-Bray,Roubaix,Henri Manders
+1985,7,6,1985-07-04,Plain stage,222.0,Roubaix,Reims,Francis Castaing
+1985,8,7,1985-07-05,Plain stage,217.0,Reims,Nancy,Ludwig Wijnants
+1985,9,8,1985-07-06,Individual time trial,75.0,Sarrebourg,Strasbourg,Bernard Hinault
+1985,10,9,1985-07-07,Hilly stage,174.0,Strasbourg,Épinal,Maarten Ducrot
+1985,11,10,1985-07-08,Hilly stage,204.0,Épinal,Pontarlier,Jørgen V. Pedersen
+1985,12,11,1985-07-09,Stage with mountain(s),195.0,Pontarlier,Morzine Avoriaz,Luis Herrera
+1985,13,12,1985-07-10,Stage with mountain(s),269.0,Morzine Avoriaz,Lans-en-Vercors,Fabio Parra
+1985,14,13,1985-07-11,Individual time trial,32.0,Villard-de-Lans,Villard-de-Lans,Eric Vanderaerden
+1985,15,14,1985-07-13,Hilly stage,179.0,Autrans,Saint-Étienne,Luis Herrera
+1985,16,15,1985-07-14,Plain stage,238.0,Saint-Étienne,Aurillac,Eduardo Chozas
+1985,17,16,1985-07-15,Plain stage,247.0,Aurillac,Toulouse,Frédéric Vichot
+1985,18,17,1985-07-16,Stage with mountain(s),209.0,Toulouse,Luz Ardiden,Pedro Delgado
+1985,19,18a,1985-07-17,Stage with mountain(s),53.0,Luz-Saint-Sauveur,Aubisque,Stephen Roche
+1985,20,18b,1985-07-17,Stage with mountain(s),83.0,Laruns,Pau,Régis Simon
+1985,21,19,1985-07-18,Plain stage,203.0,Pau,Bordeaux,Eric Vanderaerden
+1985,22,20,1985-07-19,Plain stage,225.0,Montpon-Ménestérol,Limoges,Johan Lammerts
+1985,23,21,1985-07-20,Individual time trial,46.0,Lac de Vassivière,Lac de Vassivière,Greg LeMond
+1985,24,22,1985-07-21,Plain stage,196.0,Orléans,Paris,Rudy Matthijs
+1983,1,P,1983-07-01,Individual time trial,6.0,Fontenay-sous-Bois,Fontenay-sous-Bois,Eric Vanderaerden
+1983,2,1,1983-07-02,Plain stage,163.0,Nogent-sur-Marne,Créteil,Frits Pirard
+1983,3,2,1983-07-03,Team time trial,100.0,Soissons,Fontaine-au-Pire,COOP–Mercier–Mavic
+1983,4,3,1983-07-04,Hilly stage,152.0,Valenciennes,Roubaix,Rudy Matthijs
+1983,5,4,1983-07-05,Plain stage,300.0,Roubaix,Le Havre,Serge Demierre
+1983,6,5,1983-07-06,Plain stage,257.0,Le Havre,Le Mans,Dominique Gaigne
+1983,7,6,1983-07-07,Individual time trial,58.0,Châteaubriant,Nantes,Bert Oosterbosch
+1983,8,7,1983-07-08,Plain stage,216.0,Nantes,Île d'Oléron,Riccardo Magrini
+1983,9,8,1983-07-09,Plain stage,222.0,La Rochelle,Bordeaux,Bert Oosterbosch
+1983,10,9,1983-07-10,Plain stage,207.0,Bordeaux,Pau,Philippe Chevallier
+1983,11,10,1983-07-11,Stage with mountain(s),201.0,Pau,Bagnères-de-Luchon,Robert Millar
+1983,12,11,1983-07-12,Plain stage,177.0,Bagnères-de-Luchon,Fleurance,Régis Clère
+1983,13,12,1983-07-13,Plain stage,261.0,Fleurance,Roquefort-sur-Soulzon,Kim Andersen
+1983,14,13,1983-07-14,Hilly stage,210.0,Roquefort-sur-Soulzon,Aurillac,Henk Lubberding
+1983,15,14,1983-07-15,Hilly stage,149.0,Aurillac,Issoire,Pierre Le Bigaut
+1983,16,15,1983-07-16,Individual time trial,16.0,Clermont-Ferrand,Puy de Dôme,Ángel Arroyo
+1983,17,16,1983-07-17,Hilly stage,144.0,Issoire,Saint-Étienne,Michel Laurent
+1983,18,17,1983-07-18,Stage with mountain(s),223.0,La Tour-du-Pin,Alpe d'Huez,Peter Winnen
+1983,19,18,1983-07-20,Stage with mountain(s),247.0,Le Bourg-d'Oisans,Morzine,Jacques Michaud
+1983,20,19,1983-07-21,Individual time trial,15.0,Morzine,Avoriaz,Lucien Van Impe
+1983,21,20,1983-07-22,Plain stage,291.0,Morzine,Dijon,Philippe Leleu
+1983,22,21,1983-07-23,Individual time trial,50.0,Dijon,Dijon,Laurent Fignon
+1983,23,22,1983-07-24,Plain stage,195.0,Alfortville,Paris,Gilbert Glaus
+1982,1,P,1982-07-02,Individual time trial,7.0,Basel,Basel,Bernard Hinault
+1982,2,1,1982-07-03,Hilly stage,207.0,Basel,Möhlin,Ludo Peeters
+1982,3,2,1982-07-04,Plain stage,250.0,Basel,Nancy,Phil Anderson
+1982,4,3,1982-07-05,Plain stage,134.0,Nancy,Longwy,Daniel Willems
+1982,5,4,1982-07-06,Plain stage,219.0,Beauraing,Mouscron,Gerrie Knetemann
+1982,6,5,1982-07-07,Team time trial,73.0,Orchies,Fontaine-au-Pire,Cancelled and replaced by stage 9a
+1982,7,6,1982-07-08,Plain stage,233.0,Lille,Lille,Jan Raas
+1982,8,7,1982-07-10,Plain stage,235.0,Cancale,Concarneau,Pol Verschuere
+1982,9,8,1982-07-11,Plain stage,201.0,Concarneau,Châteaulin,Frank Hoste
+1982,10,9a,1982-07-12,Team time trial,69.0,Lorient,Plumelec,Renault–Elf–Gitane
+1982,11,9b,1982-07-12,Plain stage,138.0,Plumelec,Nantes,Stefan Mutter
+1982,12,10,1982-07-13,Plain stage,147.0,Saintes,Bordeaux,Pierre-Raymond Villemiane
+1982,13,11,1982-07-14,Individual time trial,57.0,Valence d'Agen,Valence d'Agen,Gerrie Knetemann
+1982,14,12,1982-07-15,Stage with mountain(s),249.0,Fleurance,Pau,Sean Kelly
+1982,15,13,1982-07-16,Stage with mountain(s),122.0,Pau,Saint-Lary-Soulan Pla d'Adet,Beat Breu
+1982,16,14,1982-07-18,Individual time trial,33.0,Martigues,Martigues,Bernard Hinault
+1982,17,15,1982-07-19,Stage with mountain(s),208.0,Manosque,Orcières-Merlette,Pascal Simon
+1982,18,16,1982-07-20,Stage with mountain(s),123.0,Orcières-Merlette,Alpe d'Huez,Beat Breu
+1982,19,17,1982-07-21,Stage with mountain(s),251.0,Le Bourg-d'Oisans,Morzine,Peter Winnen
+1982,20,18,1982-07-22,Plain stage,233.0,Morzine,Saint-Priest,Adrie van Houwelingen
+1982,21,19,1982-07-23,Individual time trial,48.0,Saint-Priest,Saint-Priest,Bernard Hinault
+1982,22,20,1982-07-24,Plain stage,161.0,Sens,Aulnay-sous-Bois,Daniel Willems
+1982,23,21,1982-07-25,Plain stage,187.0,Fontenay-sous-Bois,Paris,Bernard Hinault
+1981,1,P,1981-06-25,Individual time trial,6.0,Nice,Nice,Bernard Hinault
+1981,2,1a,1981-06-26,Hilly stage,97.0,Nice,Nice,Freddy Maertens
+1981,3,1b,1981-06-26,Team time trial,40.0,Nice,Nice,TI–Raleigh–Creda
+1981,4,2,1981-06-27,Plain stage,254.0,Nice,Martigues,Johan van der Velde
+1981,5,3,1981-06-28,Plain stage,232.0,Martigues,Narbonne,Freddy Maertens
+1981,6,4,1981-06-29,Team time trial,77.0,Narbonne,Carcassonne,TI–Raleigh–Creda
+1981,7,5,1981-06-30,Stage with mountain(s),117.0,Saint-Gaudens,Pla d'Adet,Lucien Van Impe
+1981,8,6,1981-07-01,Individual time trial,27.0,Nay,Pau,Bernard Hinault
+1981,9,7,1981-07-02,Plain stage,227.0,Pau,Bordeaux,Urs Freuler
+1981,10,8,1981-07-03,Plain stage,182.0,Rochefort,Nantes,Ad Wijnands
+1981,11,9,1981-07-05,Plain stage,197.0,Nantes,Le Mans,René Martens
+1981,12,10,1981-07-06,Plain stage,264.0,Le Mans,Aulnay-sous-Bois,Ad Wijnands
+1981,13,11,1981-07-07,Plain stage,246.0,Compiègne,Roubaix,Daniel Willems
+1981,14,12a,1981-07-08,Plain stage,107.0,Roubaix,Brussels,Freddy Maertens
+1981,15,12b,1981-07-08,Plain stage,138.0,Brussels,Circuit Zolder,Eddy Planckaert
+1981,16,13,1981-07-09,Plain stage,157.0,Beringen,Hasselt,Freddy Maertens
+1981,17,14,1981-07-10,Individual time trial,38.0,Mulhouse,Mulhouse,Bernard Hinault
+1981,18,15,1981-07-11,Hilly stage,231.0,Besançon,Thonon-les-Bains,Sean Kelly
+1981,19,16,1981-07-12,Stage with mountain(s),200.0,Thonon-les-Bains,Morzine,Robert Alban
+1981,20,17,1981-07-14,Stage with mountain(s),230.0,Morzine,Alpe d'Huez,Peter Winnen
+1981,21,18,1981-07-15,Stage with mountain(s),134.0,Le Bourg-d'Oisans,Le Pleynet,Bernard Hinault
+1981,22,19,1981-07-16,Plain stage,118.0,Veurey,Saint-Priest,Daniel Willems
+1981,23,20,1981-07-17,Individual time trial,46.0,Saint-Priest,Saint-Priest,Bernard Hinault
+1981,24,21,1981-07-18,Plain stage,207.0,Auxerre,Fontenay-sous-Bois,Johan van der Velde
+1981,25,22,1981-07-19,Plain stage,187.0,Fontenay-sous-Bois,Paris,Freddy Maertens
+1980,1,P,1980-06-26,Individual time trial,8.0,Frankfurt,Frankfurt,Bernard Hinault
+1980,2,1a,1980-06-27,Plain stage,133.0,Frankfurt,Wiesbaden,Jan Raas
+1980,3,1b,1980-06-27,Team time trial,46.0,Wiesbaden,Frankfurt,TI–Raleigh–Creda
+1980,4,2,1980-06-28,Plain stage,276.0,Frankfurt,Metz,Rudy Pevenage
+1980,5,3,1980-06-29,Plain stage,282.0,Metz,Liège,Henk Lubberding
+1980,6,4,1980-06-30,Individual time trial,35.0,Spa,Spa,Bernard Hinault
+1980,7,5,1980-07-01,Plain stage,249.0,Liège,Lille,Bernard Hinault
+1980,8,6,1980-07-02,Plain stage,216.0,Lille,Compiègne,Jean-Louis Gauthier
+1980,9,7a,1980-07-03,Team time trial,65.0,Compiègne,Beauvais,TI–Raleigh–Creda
+1980,10,7b,1980-07-03,Plain stage,92.0,Beauvais,Rouen,Jan Raas
+1980,11,8,1980-07-04,Plain stage,164.0,Flers,Saint-Malo,Bert Oosterbosch
+1980,12,9,1980-07-06,Plain stage,205.0,Saint-Malo,Nantes,Jan Raas
+1980,13,10,1980-07-07,Plain stage,163.0,Rochefort,Bordeaux,Cees Priem
+1980,14,11,1980-07-08,Individual time trial,52.0,Damazan,Laplume,Joop Zoetemelk
+1980,15,12,1980-07-09,Plain stage,194.0,Agen,Pau,Gerrie Knetemann
+1980,16,13,1980-07-10,Stage with mountain(s),200.0,Pau,Bagnères-de-Luchon,Raymond Martin
+1980,17,14,1980-07-11,Plain stage,189.0,Lézignan-Corbières,Montpellier,Ludo Peeters
+1980,18,15,1980-07-12,Plain stage,160.0,Montpellier,Martigues,Bernard Vallet
+1980,19,16,1980-07-13,Stage with mountain(s),209.0,Trets,Pra-Loup,Jos De Schoenmaecker
+1980,20,17,1980-07-14,Stage with mountain(s),242.0,Serre Chevalier,Morzine,Mariano Martínez
+1980,21,18,1980-07-16,Stage with mountain(s),199.0,Morzine,Prapoutel,Ludo Loos
+1980,22,19,1980-07-17,Hilly stage,140.0,Voreppe,Saint-Étienne,Sean Kelly
+1980,23,20,1980-07-18,Individual time trial,34.0,Saint-Étienne,Saint-Étienne,Joop Zoetemelk
+1980,24,21,1980-07-19,Plain stage,208.0,Auxerre,Fontenay-sous-Bois,Sean Kelly
+1980,25,22,1980-07-20,Plain stage,186.0,Fontenay-sous-Bois,Paris,Pol Verschuere
+1975,1,P,1975-06-26,Individual time trial,6.0,Charleroi,Charleroi,Francesco Moser
+1975,2,1a,1975-06-27,Plain stage,94.0,Charleroi,Molenbeek,Cees Priem
+1975,3,1b,1975-06-27,Plain stage,109.0,Molenbeek,Roubaix,Rik Van Linden
+1975,4,2,1975-06-28,Plain stage,121.0,Roubaix,Amiens,Ronald de Witte
+1975,5,3,1975-06-29,Plain stage,170.0,Amiens,Versailles,Karel Rottiers
+1975,6,4,1975-06-30,Plain stage,223.0,Versailles,Le Mans,Jacques Esclassan
+1975,7,5,1975-07-02,Plain stage,222.0,Sablé-sur-Sarthe,Merlin-Plage,Theo Smit
+1975,8,6,1975-07-02,Individual time trial,16.0,Merlin-Plage,Merlin-Plage,Eddy Merckx
+1975,9,7,1975-07-03,Plain stage,236.0,Saint-Gilles-Croix-de-Vie,Angoulême,Francesco Moser
+1975,10,8,1975-07-04,Plain stage,134.0,Angoulême,Bordeaux,Barry Hoban
+1975,11,9a,1975-07-05,Plain stage,131.0,Langon,Fleurance,Theo Smit
+1975,12,9b,1975-07-05,Individual time trial,37.0,Fleurance,Auch,Eddy Merckx
+1975,13,10,1975-07-07,Stage with mountain(s),206.0,Auch,Pau,Felice Gimondi
+1975,14,11,1975-07-08,Stage with mountain(s),160.0,Pau,Saint-Lary-Soulan Pla d'Adet,Joop Zoetemelk
+1975,15,12,1975-07-09,Plain stage,242.0,Tarbes,Albi,Gerrie Knetemann
+1975,16,13,1975-07-10,Stage with mountain(s),260.0,Albi,Super-Lioran,Michel Pollentier
+1975,17,14,1975-07-11,Stage with mountain(s),174.0,Aurillac,Puy de Dôme,Lucien Van Impe
+1975,18,15,1975-07-13,Stage with mountain(s),217.0,Nice,Pra-Loup,Bernard Thévenet
+1975,19,16,1975-07-14,Stage with mountain(s),107.0,Barcelonnette,Serre Chevalier,Bernard Thévenet
+1975,20,17,1975-07-15,Stage with mountain(s),225.0,Valloire,Morzine Avoriaz,Vicente Lopez-Carril
+1975,21,18,1975-07-16,Individual time trial,40.0,Morzine,Châtel,Lucien Van Impe
+1975,22,19,1975-07-17,Stage with mountain(s),229.0,Thonon-les-Bains,Chalon-sur-Saône,Rik Van Linden
+1975,23,20,1975-07-18,Plain stage,256.0,Pouilly-en-Auxois,Melun,Giacinto Santambrogio
+1975,24,21,1975-07-19,Plain stage,220.0,Melun,Senlis,Rik Van Linden
+1975,25,22,1975-07-20,Plain stage,164.0,Paris,Paris,Walter Godefroot
+1974,1,P,1974-06-27,Individual time trial,7.0,Brest,Brest,Eddy Merckx
+1974,2,1,1974-06-28,Plain stage,144.0,Brest,Saint-Pol-de-Léon,Ercole Gualazzini
+1974,3,2,1974-06-29,Plain stage,164.0,Plymouth,Plymouth,Henk Poppe
+1974,4,3,1974-06-30,Plain stage,190.0,Morlaix,Saint-Malo,Patrick Sercu
+1974,5,4,1974-07-01,Plain stage,184.0,Saint-Malo,Caen,Patrick Sercu
+1974,6,5,1974-07-02,Plain stage,165.0,Caen,Dieppe,Ronald de Witte
+1974,7,6a,1974-07-03,Plain stage,239.0,Dieppe,Harelbeke,Jean-Luc Molineris
+1974,8,6b,1974-07-03,Team time trial,9.0,Harelbeke,Harelbeke,Molteni
+1974,9,7,1974-07-04,Plain stage,221.0,Mons,Châlons-sur-Marne,Eddy Merckx
+1974,10,8a,1974-07-05,Plain stage,136.0,Châlons-sur-Marne,Chaumont,Cyrille Guimard
+1974,11,8b,1974-07-05,Plain stage,152.0,Chaumont,Besançon,Patrick Sercu
+1974,12,9,1974-07-06,Stage with mountain(s),241.0,Besançon,Gaillard,Eddy Merckx
+1974,13,10,1974-07-07,Stage with mountain(s),131.0,Gaillard,Aix-les-Bains,Eddy Merckx
+1974,14,11,1974-07-08,Stage with mountain(s),199.0,Aix-les-Bains,Serre Chevalier,Vicente Lopez Carril
+1974,15,12,1974-07-10,Stage with mountain(s),231.0,Savines-le-Lac,Orange,Jos Spruyt
+1974,16,13,1974-07-11,Plain stage,126.0,Avignon,Montpellier,Barry Hoban
+1974,17,14,1974-07-12,Plain stage,249.0,Lodève,Colomiers,Jean-Pierre Genet
+1974,18,15,1974-07-14,Stage with mountain(s),225.0,Colomiers,La Seu d'Urgell,Eddy Merckx
+1974,19,16,1974-07-15,Stage with mountain(s),209.0,La Seu d'Urgell,Saint-Lary-Soulan Pla d'Adet,Raymond Poulidor
+1974,20,17,1974-07-16,Stage with mountain(s),119.0,Saint-Lary-Soulan,La Mongie,Jean-Pierre Danguillaume
+1974,21,18,1974-07-17,Stage with mountain(s),141.0,Bagnères-de-Bigorre,Pau,Jean-Pierre Danguillaume
+1974,22,19a,1974-07-18,Plain stage,196.0,Pau,Bordeaux,Francis Campaner
+1974,23,19b,1974-07-18,Individual time trial,12.0,Bordeaux,Bordeaux,Eddy Merckx
+1974,24,20,1974-07-19,Plain stage,120.0,Saint-Gilles-Croix-de-Vie,Nantes,Gerard Vianen
+1974,25,21a,1974-07-20,Plain stage,113.0,Vouvray,Orléans,Eddy Merckx
+1974,26,21b,1974-07-20,Individual time trial,37.0,Orléans,Orléans,Michel Pollentier
+1974,27,22,1974-07-21,Plain stage,146.0,Orléans,Paris,Eddy Merckx
+1969,1,P,1969-06-28,Individual time trial,10.0,Roubaix,Roubaix,Rudi Altig
+1969,2,1a,1969-06-29,Plain stage,147.0,Roubaix,Sint-Pieters-Woluwe,Marino Basso
+1969,3,1b,1969-06-29,Team time trial,16.0,Sint-Pieters-Woluwe,Sint-Pieters-Woluwe,Faema
+1969,4,2,1969-06-30,Plain stage,182.0,Sint-Pieters-Woluwe,Maastricht,Julien Stevens
+1969,5,3,1969-07-01,Plain stage,213.0,Maastricht,Charleville-Mézières,Eric Leman
+1969,6,4,1969-07-02,Plain stage,214.0,Charleville-Mézières,Nancy,Rik Van Looy
+1969,7,5,1969-07-03,Stage with mountain(s),194.0,Nancy,Mulhouse,Joaquim Agostinho
+1969,8,6,1969-07-04,Stage with mountain(s),133.0,Mulhouse,Ballon d’Alsace,Eddy Merckx
+1969,9,7,1969-07-05,Stage with mountain(s),241.0,Belfort,Divonne-les-Bains,Mariano Diaz
+1969,10,8a,1969-07-06,Individual time trial,9.0,Divonne-les-Bains,Divonne-les-Bains,Eddy Merckx
+1969,11,8b,1969-07-06,Stage with mountain(s),137.0,Divonne-les-Bains,Thonon-les-Bains,Michele Dancelli
+1969,12,9,1969-07-07,Stage with mountain(s),111.0,Thonon-les-Bains,Chamonix,Roger Pingeon
+1969,13,10,1969-07-08,Stage with mountain(s),221.0,Chamonix,Briançon,Herman Van Springel
+1969,14,11,1969-07-09,Stage with mountain(s),198.0,Briançon,Digne,Eddy Merckx
+1969,15,12,1969-07-10,Stage with mountain(s),161.0,Digne,Aubagne,Felice Gimondi
+1969,16,13,1969-07-11,Plain stage,196.0,Aubagne,La Grande-Motte,Guido Reybrouck
+1969,17,14,1969-07-12,Plain stage,234.0,La Grande-Motte,Revel,Joaquim Agostinho
+1969,18,15,1969-07-13,Individual time trial,19.0,Revel,Revel,Eddy Merckx
+1969,19,16,1969-07-14,Stage with mountain(s),199.0,Castelnaudary,Luchon,Raymond Delisle
+1969,20,17,1969-07-15,Stage with mountain(s),214.0,Luchon,Mourenx,Eddy Merckx
+1969,21,18,1969-07-16,Plain stage,201.0,Mourenx,Bordeaux,Barry Hoban
+1969,22,19,1969-07-17,Plain stage,193.0,Bordeaux,Brive,Barry Hoban
+1969,23,20,1969-07-18,Stage with mountain(s),198.0,Brive,Puy de Dôme,Pierre Matignon
+1969,24,21,1969-07-19,Plain stage,329.0,Clermont-Ferrand,Montargis,Herman Van Springel
+1969,25,22a,1969-07-20,Plain stage,111.0,Montargis,Créteil,Jozef Spruyt
+1969,26,22b,1969-07-20,Individual time trial,37.0,Créteil,Paris,Eddy Merckx
+1967,1,1a,1967-06-29,Individual time trial,5.775,Angers,Angers,José-Maria Errandonea
+1967,2,1b,1967-06-30,Plain stage,185.5,Angers,Saint-Malo,Walter Godefroot
+1967,3,2,1967-07-01,Plain stage,180.0,Saint-Malo,Caen,Willy Van Neste
+1967,4,3,1967-07-02,Plain stage,248.0,Caen,Amiens,Marino Basso
+1967,5,4,1967-07-03,Plain stage,191.0,Amiens,Roubaix,Guido Reybrouck
+1967,6,5a,1967-07-04,Plain stage,172.0,Roubaix,Jambes,Roger Pingeon
+1967,7,5b,1967-07-04,Team time trial,17.0,Jambes,Jambes,Belgium
+1967,8,6,1967-07-05,Plain stage,238.0,Jambes,Metz,Herman Van Springel
+1967,9,7,1967-07-06,Stage with mountain(s),205.5,Metz,Strasbourg,Michael Wright
+1967,10,8,1967-07-07,Stage with mountain(s),215.0,Strasbourg,Belfort/Ballon d’Alsace,Lucien Aimar
+1967,11,9,1967-07-09,Stage with mountain(s),238.5,Belfort,Divonne-les-Bains,Guido Reybrouck
+1967,12,10,1967-07-10,Stage with mountain(s),243.0,Divonne-les-Bains,Briançon,Felice Gimondi
+1967,13,11,1967-07-11,Stage with mountain(s),197.0,Briançon,Digne,José Samyn
+1967,14,12,1967-07-12,Plain stage,207.5,Digne,Marseille,Raymond Riotte
+1967,15,13,1967-07-13,Stage with mountain(s),211.5,Marseille,Carpentras,Jan Janssen
+1967,16,14,1967-07-14,Plain stage,201.5,Carpentras,Sète,Barry Hoban
+1967,17,15,1967-07-16,Plain stage,230.5,Sète,Toulouse,Rolf Wolfshohl
+1967,18,16,1967-07-17,Stage with mountain(s),188.0,Toulouse,Luchon,Fernando Manzaneque
+1967,19,17,1967-07-18,Stage with mountain(s),250.0,Luchon,Pau,Raymond Mastrotto
+1967,20,18,1967-07-19,Plain stage,206.5,Pau,Bordeaux,Marino Basso
+1967,21,19,1967-07-20,Plain stage,217.0,Bordeaux,Limoges,Jean Stablinski
+1967,22,20,1967-07-21,Stage with mountain(s),222.0,Limoges,Puy de Dôme,Felice Gimondi
+1967,23,21,1967-07-22,Plain stage,359.0,Clermont-Ferrand,Fontainebleau,Paul Lemeteyer
+1967,24,22a,1967-07-23,Plain stage,104.0,Fontainebleau,Versailles,René Binggeli
+1967,25,22b,1967-07-23,Individual time trial,46.6,Versailles,Paris,Raymond Poulidor
+1963,1,1,1963-06-23,Plain stage,152.0,Paris,Épernay,Eddy Pauwels
+1963,2,2a,1963-06-24,Plain stage,186.0,Reims,Jambes,Rik Van Looy
+1963,3,2b,1963-06-24,Team time trial,22.0,Jambes,Jambes,Pelforth–Sauvage–Lejeune
+1963,4,3,1963-06-25,Plain stage,223.0,Jambes,Roubaix,Seamus Elliott
+1963,5,4,1963-06-26,Plain stage,236.0,Roubaix,Rouen,Frans Melckenbeeck
+1963,6,5,1963-06-27,Plain stage,285.0,Rouen,Rennes,Antonio Bailetti
+1963,7,6a,1963-06-28,Plain stage,118.0,Rennes,Angers,Roger de Breuker
+1963,8,6b,1963-06-28,Individual time trial,25.0,Angers,Angers,Jacques Anquetil
+1963,9,7,1963-06-29,Plain stage,236.0,Angers,Limoges,Jan Janssen
+1963,10,8,1963-06-30,Plain stage,232.0,Limoges,Bordeaux,Rik Van Looy
+1963,11,9,1963-07-01,Plain stage,202.0,Bordeaux,Pau,Pino Cerami
+1963,12,10,1963-07-02,Stage with mountain(s),148.0,Pau,Bagnères-de-Bigorre,Jacques Anquetil
+1963,13,11,1963-07-03,Stage with mountain(s),131.0,Bagnères-de-Bigorre,Luchon,Guy Ignolin
+1963,14,12,1963-07-04,Stage with mountain(s),173.0,Luchon,Toulouse,André Darrigade
+1963,15,13,1963-07-05,Plain stage,234.0,Toulouse,Aurillac,Rik Van Looy
+1963,16,14,1963-07-07,Plain stage,237.0,Aurillac,Saint-Étienne,Guy Ignolin
+1963,17,15,1963-07-08,Stage with mountain(s),174.0,Saint-Étienne,Grenoble,Federico Bahamontes
+1963,18,16,1963-07-09,Stage with mountain(s),202.0,Grenoble,Val d'Isère,Fernando Manzaneque
+1963,19,17,1963-07-10,Stage with mountain(s),228.0,Val d'Isère,Chamonix,Jacques Anquetil
+1963,20,18,1963-07-11,Stage with mountain(s),225.0,Chamonix,Lons-le-Saunier,Frans Brands
+1963,21,19,1963-07-12,Individual time trial,54.0,Arbois,Besançon,Jacques Anquetil
+1963,22,20,1963-07-13,Plain stage,234.0,Besançon,Troyes,Roger de Breuker
+1963,23,21,1963-07-14,Plain stage,185.0,Troyes,Paris,Rik Van Looy
+1962,1,1,1962-06-24,Plain stage,253.0,Nancy,Spa,Rudi Altig
+1962,2,2a,1962-06-25,Plain stage,147.0,Spa,Herentals,André Darrigade
+1962,3,2b,1962-06-25,Team time trial,23.0,Herentals,Herentals,Faema–Flandria–Clement
+1962,4,3,1962-06-26,Plain stage,210.0,Brussels,Amiens,Rudi Altig
+1962,5,4,1962-06-27,Plain stage,196.5,Amiens,Le Havre,Willy Vanden Berghen
+1962,6,5,1962-06-28,Plain stage,215.0,Pont l'Evêque,Saint-Malo,Emile Daems
+1962,7,6,1962-06-29,Plain stage,235.5,Dinard,Brest,Robert Cazala
+1962,8,7,1962-06-30,Plain stage,201.0,Quimper,Saint-Nazaire,Huub Zilverberg
+1962,9,8a,1962-07-01,Plain stage,155.0,Saint-Nazaire,Luçon,Mario Minieri
+1962,10,8b,1962-07-01,Individual time trial,43.0,Luçon,La Rochelle,Jacques Anquetil
+1962,11,9,1962-07-02,Plain stage,214.0,La Rochelle,Bordeaux,Antonio Bailetti
+1962,12,10,1962-07-03,Plain stage,184.5,Bordeaux,Bayonne,Willy Vannitsen
+1962,13,11,1962-07-04,Plain stage,155.5,Bayonne,Pau,Eddy Pauwels
+1962,14,12,1962-07-05,Stage with mountain(s),207.5,Pau,Saint-Gaudens,Robert Cazala
+1962,15,13,1962-07-06,Mountain time trial,18.5,Luchon,Superbagnères,Federico Bahamontes
+1962,16,14,1962-07-07,Stage with mountain(s),215.0,Luchon,Carcassonne,Jean Stablinski
+1962,17,15,1962-07-08,Plain stage,196.5,Carcassonne,Montpellier,Willy Vannitsen
+1962,18,16,1962-07-09,Plain stage,185.0,Montpellier,Aix-en-Provence,Emile Daems
+1962,19,17,1962-07-10,Plain stage,201.0,Aix-en-Provence,Antibes,Rudi Altig
+1962,20,18,1962-07-11,Stage with mountain(s),241.5,Antibes,Briançon,Emile Daems
+1962,21,19,1962-07-12,Stage with mountain(s),204.5,Briançon,Aix-les-Bains,Raymond Poulidor
+1962,22,20,1962-07-13,Individual time trial,68.0,Bourgoin,Lyon,Jacques Anquetil
+1962,23,21,1962-07-14,Plain stage,232.0,Lyon,Nevers,Dino Bruni
+1962,24,22,1962-07-15,Plain stage,271.0,Nevers,Paris,Rino Benedetti
+1961,1,1a,1961-06-25,Plain stage,136.5,Rouen,Versailles,André Darrigade
+1961,2,1b,1961-06-25,Individual time trial,28.5,Versailles,Versailles,Jacques Anquetil
+1961,3,2,1961-06-26,Plain stage,230.5,Pontoise,Roubaix,André Darrigade
+1961,4,3,1961-06-27,Plain stage,197.5,Roubaix,Charleroi,Emile Daems
+1961,5,4,1961-06-28,Plain stage,237.5,Charleroi,Metz,Anatole Novak
+1961,6,5,1961-06-29,Stage with mountain(s),221.0,Metz,Strasbourg,Louis Bergaud
+1961,7,6,1961-06-30,Stage with mountain(s),180.5,Strasbourg,Belfort,Jozef Planckaert
+1961,8,7,1961-07-01,Plain stage,214.5,Belfort,Chalon-sur-Saône,Jean Stablinski
+1961,9,8,1961-07-02,Stage with mountain(s),240.5,Chalon-sur-Saône,Saint-Étienne,Jean Forestier
+1961,10,9,1961-07-03,Stage with mountain(s),230.0,Saint-Étienne,Grenoble,Charly Gaul
+1961,11,10,1961-07-04,Stage with mountain(s),250.5,Grenoble,Turin,Guy Ignolin
+1961,12,11,1961-07-05,Stage with mountain(s),225.0,Turin,Antibes,Guido Carlesi
+1961,13,12,1961-07-06,Stage with mountain(s),199.0,Antibes,Aix-en-Provence,Michel Van Aerde
+1961,14,13,1961-07-07,Plain stage,177.5,Aix-en-Provence,Montpellier,André Darrigade
+1961,15,14,1961-07-09,Plain stage,174.0,Montpellier,Perpignan,Eddy Pauwels
+1961,16,15,1961-07-10,Plain stage,206.0,Perpignan,Toulouse,Guido Carlesi
+1961,17,16,1961-07-11,Stage with mountain(s),208.0,Toulouse,Superbagnères,Imerio Massignan
+1961,18,17,1961-07-12,Stage with mountain(s),197.0,Luchon,Pau,Eddy Pauwels
+1961,19,18,1961-07-13,Plain stage,207.0,Pau,Bordeaux,Martin Van Geneugden
+1961,20,19,1961-07-14,Individual time trial,74.5,Bergerac,Périgueux,Jacques Anquetil
+1961,21,20,1961-07-15,Plain stage,309.5,Périgueux,Tours,André Darrigade
+1961,22,21,1961-07-16,Plain stage,252.5,Tours,Paris,Robert Cazala
+1960,1,1a,1960-06-26,Plain stage,108.0,Lille,Brussels,Julien Schepens
+1960,2,1b,1960-06-26,Individual time trial,27.8,Brussels,Brussels,Roger Rivière
+1960,3,2,1960-06-27,Plain stage,206.0,Brussels,Dunkirk,René Privat
+1960,4,3,1960-06-28,Plain stage,209.0,Dunkirk,Dieppe,Nino Defilippis
+1960,5,4,1960-06-29,Plain stage,211.0,Dieppe,Caen,Jean Graczyk
+1960,6,5,1960-06-30,Plain stage,189.0,Caen,Saint-Malo,André Darrigade
+1960,7,6,1960-07-01,Plain stage,191.0,Saint-Malo,Lorient,Roger Rivière
+1960,8,7,1960-07-02,Plain stage,244.0,Lorient,Angers,Graziano Battistini
+1960,9,8,1960-07-03,Plain stage,240.0,Angers,Limoges,Nino Defilippis
+1960,10,9,1960-07-04,Plain stage,225.0,Limoges,Bordeaux,Martin van Geneugden
+1960,11,10,1960-07-05,Stage with mountain(s),228.0,Mont-de-Marsan,Pau,Roger Rivière
+1960,12,11,1960-07-06,Stage with mountain(s),161.0,Pau,Luchon,Kurt Gimmi
+1960,13,12,1960-07-07,Stage with mountain(s),176.0,Luchon,Toulouse,Jean Graczyk
+1960,14,13,1960-07-08,Plain stage,224.0,Toulouse,Millau,Louis Proost
+1960,15,14,1960-07-10,Stage with mountain(s),217.0,Millau,Avignon,Martin van Geneugden
+1960,16,15,1960-07-11,Stage with mountain(s),187.0,Avignon,Gap,Michel Van Aerde
+1960,17,16,1960-07-12,Stage with mountain(s),172.0,Gap,Briançon,Graziano Battistini
+1960,18,17,1960-07-13,Stage with mountain(s),229.0,Briançon,Aix-les-Bains,Jean Graczyk
+1960,19,18,1960-07-14,Stage with mountain(s),215.0,Aix-les-Bains,Thonon-les-Bains,Fernando Manzaneque
+1960,20,19,1960-07-15,Individual time trial,83.0,Pontarlier,Besançon,Rolf Graf
+1960,21,20,1960-07-16,Plain stage,229.0,Besançon,Troyes,Pierre Beuffeuil
+1960,22,21,1960-07-17,Plain stage,200.0,Troyes,Paris,Jean Graczyk
+1959,1,1,1959-06-25,Plain stage,238.0,Mulhouse,Metz,André Darrigade
+1959,2,2,1959-06-26,Plain stage,234.0,Metz,Namur,Vito Favero
+1959,3,3,1959-06-27,Plain stage,217.0,Namur,Roubaix,Robert Cazala
+1959,4,4,1959-06-28,Plain stage,230.0,Roubaix,Rouen,Dino Bruni
+1959,5,5,1959-06-29,Plain stage,286.0,Rouen,Rennes,Jean Graczyk
+1959,6,6,1959-06-30,Individual time trial,45.0,Blain,Nantes,Roger Rivière
+1959,7,7,1959-07-01,Plain stage,190.0,Nantes,La Rochelle,Roger Hassenforder
+1959,8,8,1959-07-02,Plain stage,201.0,La Rochelle,Bordeaux,Michel Dejouhannet
+1959,9,9,1959-07-03,Plain stage,207.0,Bordeaux,Bayonne,Marcel Queheille
+1959,10,10,1959-07-05,Stage with mountain(s),235.0,Bayonne,Bagnères-de-Bigorre,Marcel Janssens
+1959,11,11,1959-07-06,Stage with mountain(s),119.0,Bagnères-de-Bigorre,Saint-Gaudens,André Darrigade
+1959,12,12,1959-07-07,Plain stage,184.0,Saint-Gaudens,Albi,Rolf Graf
+1959,13,13,1959-07-08,Stage with mountain(s),219.0,Albi,Aurillac,Henry Anglade
+1959,14,14,1959-07-09,Stage with mountain(s),231.0,Aurillac,Clermont-Ferrand,André Le Dissez
+1959,15,15,1959-07-10,Mountain time trial,12.0,Puy de Dôme,Puy de Dôme,Federico Bahamontes
+1959,16,16,1959-07-11,Plain stage,210.0,Clermont-Ferrand,Saint-Étienne,Dino Bruni
+1959,17,17,1959-07-13,Stage with mountain(s),197.0,Saint-Étienne,Grenoble,Charly Gaul
+1959,18,18,1959-07-14,Stage with mountain(s),243.0,Grenoble,Saint-Vincent,Ercole Baldini
+1959,19,19,1959-07-15,Stage with mountain(s),251.0,Saint-Vincent,Annecy,Rolf Graf
+1959,20,20,1959-07-16,Plain stage,202.0,Annecy,Chalon-sur-Saône,Brian Robinson
+1959,21,21,1959-07-17,Individual time trial,69.0,Seurre,Dijon,Roger Rivière
+1959,22,22,1959-07-18,Plain stage,331.0,Dijon,Paris,Joseph Groussard
+1957,1,1,1957-06-27,Plain stage,204.0,Nantes,Granville,André Darrigade
+1957,2,2,1957-06-28,Plain stage,226.0,Granville,Caen,René Privat
+1957,3,3a,1957-06-29,Team time trial,15.0,"Circuit de la Prairie, Caen","Circuit de la Prairie, Caen",France
+1957,4,3b,1957-06-29,Plain stage,134.0,Caen,Rouen,Jacques Anquetil
+1957,5,4,1957-06-30,Plain stage,232.0,Rouen,Roubaix,Marcel Janssens
+1957,6,5,1957-07-01,Plain stage,170.0,Roubaix,Charleroi,Gilbert Bauvin
+1957,7,6,1957-07-02,Plain stage,248.0,Charleroi,Metz,André Trochut
+1957,8,7,1957-07-03,Stage with mountain(s),223.0,Metz,Colmar,Roger Hassenforder
+1957,9,8,1957-07-04,Plain stage,192.0,Colmar,Besançon,Pierino Baffi
+1957,10,9,1957-07-05,Plain stage,188.0,Besançon,Thonon-les-Bains,Jacques Anquetil
+1957,11,10,1957-07-07,Stage with mountain(s),247.0,Thonon-les-Bains,Briançon,Gastone Nencini
+1957,12,11,1957-07-08,Stage with mountain(s),286.0,Briançon,Cannes,René Privat
+1957,13,12,1957-07-09,Stage with mountain(s),239.0,Cannes,Marseille,Jean Stablinski
+1957,14,13,1957-07-10,Plain stage,160.0,Marseille,Alès,Nino Defilippis
+1957,15,14,1957-07-11,Plain stage,246.0,Alès,Perpignan,Roger Hassenforder
+1957,16,15a,1957-07-12,Plain stage,197.0,Perpignan,Barcelona,René Privat
+1957,17,15b,1957-07-12,Individual time trial,9.8,Montjuïc circuit,Montjuïc circuit,Jacques Anquetil
+1957,18,16,1957-07-14,Stage with mountain(s),220.0,Barcelona ,Ax-les-Thermes,Jean Bourlès
+1957,19,17,1957-07-15,Stage with mountain(s),236.0,Ax-les-Thermes,Saint-Gaudens,Nino Defilippis
+1957,20,18,1957-07-16,Stage with mountain(s),207.0,Saint-Gaudens,Pau,Gastone Nencini
+1957,21,19,1957-07-17,Plain stage,194.0,Pau,Bordeaux,Pierino Baffi
+1957,22,20,1957-07-18,Individual time trial,66.0,Bordeaux,Libourne,Jacques Anquetil
+1957,23,21,1957-07-19,Plain stage,317.0,Libourne,Tours,André Darrigade
+1957,24,22,1957-07-20,Plain stage,227.0,Tours,Paris,André Darrigade
+1956,1,1,1956-07-05,Plain stage,223.0,Reims,Liège,André Darrigade
+1956,2,2,1956-07-06,Plain stage,217.0,Liège,Lille,Fred De Bruyne
+1956,3,3,1956-07-07,Plain stage,225.0,Lille,Rouen,Arigo Padovan
+1956,4,4a,1956-07-08,Individual time trial,15.1,Circuit de Rouen-Les-Essarts,Circuit de Rouen-Les-Essarts,Charly Gaul
+1956,5,4b,1956-07-08,Plain stage,125.0,Rouen,Caen,Roger Hassenforder
+1956,6,5,1956-07-09,Plain stage,189.0,Caen,Saint-Malo,Joseph Morvan
+1956,7,6,1956-07-10,Plain stage,192.0,Saint-Malo,Lorient,Fred De Bruyne
+1956,8,7,1956-07-11,Plain stage,244.0,Lorient,Angers,Alessandro Fantini
+1956,9,8,1956-07-12,Plain stage,180.0,Angers,La Rochelle,Miguel Poblet
+1956,10,9,1956-07-13,Plain stage,219.0,La Rochelle,Bordeaux,Roger Hassenforder
+1956,11,10,1956-07-15,Plain stage,201.0,Bordeaux,Bayonne,Fred De Bruyne
+1956,12,11,1956-07-16,Stage with mountain(s),255.0,Bayonne,Pau,Nino Defilippis
+1956,13,12,1956-07-17,Stage with mountain(s),130.0,Pau,Luchon,Jean-Pierre Schmitz
+1956,14,13,1956-07-18,Stage with mountain(s),176.0,Luchon,Toulouse,Nino Defilippis
+1956,15,14,1956-07-19,Plain stage,231.0,Toulouse,Montpellier,Roger Hassenforder
+1956,16,15,1956-07-20,Plain stage,204.0,Montpellier,Aix-en-Provence,Joseph Thomin
+1956,17,16,1956-07-22,Stage with mountain(s),203.0,Aix-en-Provence,Gap,Jean Forestier
+1956,18,17,1956-07-23,Stage with mountain(s),234.0,Gap,Turin,Nino Defilippis
+1956,19,18,1956-07-24,Stage with mountain(s),250.0,Turin,Grenoble,Charly Gaul
+1956,20,19,1956-07-25,Stage with mountain(s),173.0,Grenoble,Saint-Étienne,Stan Ockers
+1956,21,20,1956-07-26,Individual time trial,73.0,Saint-Étienne,Lyon,Miguel Bover
+1956,22,21,1956-07-27,Stage with mountain(s),237.0,Lyon,Montluçon,Roger Hassenforder
+1956,23,22,1956-07-28,Plain stage,331.0,Montluçon,Paris,Gastone Nencini
+1955,1,1a,1955-07-07,Plain stage,102.0,Le Havre,Dieppe,Miguel Poblet
+1955,2,1b,1955-07-07,Team time trial,12.5,Dieppe,Dieppe,Netherlands
+1955,3,2,1955-07-08,Plain stage,204.0,Dieppe,Roubaix,Antonin Rolland
+1955,4,3,1955-07-09,Plain stage,210.0,Roubaix,Namur,Louison Bobet
+1955,5,4,1955-07-10,Plain stage,225.0,Namur,Metz,Willy Kemp
+1955,6,5,1955-07-11,Plain stage,229.0,Metz,Colmar,Roger Hassenforder
+1955,7,6,1955-07-12,Plain stage,195.0,Colmar,Zürich,André Darrigade
+1955,8,7,1955-07-13,Plain stage,267.0,Zürich,Thonon-les-Bains,Jos Hinsen
+1955,9,8,1955-07-14,Stage with mountain(s),253.0,Thonon-les-Bains,Briançon,Charly Gaul
+1955,10,9,1955-07-15,Stage with mountain(s),275.0,Briançon,Monaco,Raphaël Géminiani
+1955,11,10,1955-07-16,Plain stage,240.0,Monaco,Marseille,Lucien Lazaridès
+1955,12,11,1955-07-18,Stage with mountain(s),198.0,Marseille,Avignon,Louison Bobet
+1955,13,12,1955-07-19,Stage with mountain(s),240.0,Avignon,Millau,Alessandro Fantini
+1955,14,13,1955-07-20,Plain stage,205.0,Millau,Albi,Daan de Groot
+1955,15,14,1955-07-21,Stage with mountain(s),156.0,Albi,Narbonne,Louis Caput
+1955,16,15,1955-07-22,Plain stage,151.0,Narbonne,Ax-les-Thermes,Luciano Pezzi
+1955,17,16,1955-07-24,Plain stage,123.0,Ax-les-Thermes,Toulouse,Rik Van Steenbergen
+1955,18,17,1955-07-25,Stage with mountain(s),250.0,Toulouse,Saint-Gaudens,Charly Gaul
+1955,19,18,1955-07-26,Stage with mountain(s),205.0,Saint-Gaudens,Pau,Jean Brankart
+1955,20,19,1955-07-27,Plain stage,195.0,Pau,Bordeaux,Wout Wagtmans
+1955,21,20,1955-07-28,Plain stage,243.0,Bordeaux,Poitiers,Jean Forestier
+1955,22,21,1955-07-29,Individual time trial,68.6,Châtellerault,Tours,Jean Brankart
+1955,23,22,1955-07-30,Plain stage,229.0,Tours,Paris,Miguel Poblet
+1953,1,1,1953-07-03,Plain stage,195.0,Strasbourg,Metz,Fritz Schär
+1953,2,2,1953-07-04,Plain stage,227.0,Metz,Liège,Fritz Schär
+1953,3,3,1953-07-05,Plain stage,221.0,Liège,Lille,Stanislas Bober
+1953,4,4,1953-07-06,Plain stage,188.0,Lille,Dieppe,Gerrit Voorting
+1953,5,5,1953-07-07,Plain stage,200.0,Dieppe,Caen,Jean Malléjac
+1953,6,6,1953-07-08,Plain stage,206.0,Caen,Le Mans,Martin Van Geneugden
+1953,7,7,1953-07-09,Plain stage,181.0,Le Mans,Nantes,Livio Isotti
+1953,8,8,1953-07-10,Plain stage,345.0,Nantes,Bordeaux,Jan Nolten
+1953,9,9,1953-07-12,Plain stage,197.0,Bordeaux,Pau,Fiorenzo Magni
+1953,10,10,1953-07-13,Stage with mountain(s),103.0,Pau,Cauterets,Jesús Loroño
+1953,11,11,1953-07-14,Stage with mountain(s),115.0,Cauterets,Luchon,Jean Robic
+1953,12,12,1953-07-15,Plain stage,228.0,Luchon,Albi,André Darrigade
+1953,13,13,1953-07-16,Stage with mountain(s),189.0,Albi,Béziers,Nello Lauredi
+1953,14,14,1953-07-17,Stage with mountain(s),214.0,Béziers,Nîmes,Bernard Quennehen
+1953,15,15,1953-07-18,Plain stage,173.0,Nîmes,Marseille,Maurice Quentin
+1953,16,16,1953-07-19,Stage with mountain(s),236.0,Marseille,Monaco,Wim van Est
+1953,17,17,1953-07-21,Stage with mountain(s),261.0,Monaco,Gap,Wout Wagtmans
+1953,18,18,1953-07-22,Stage with mountain(s),165.0,Gap,Briançon,Louison Bobet
+1953,19,19,1953-07-23,Stage with mountain(s),227.0,Briançon,Lyon,Georges Meunier
+1953,20,20,1953-07-24,Individual time trial,70.0,Lyon,St. Etienne,Louison Bobet
+1953,21,21,1953-07-25,Plain stage,210.0,St. Etienne,Montluçon,Wout Wagtmans
+1953,22,22,1953-07-26,Plain stage,328.0,Montluçon,Paris,Fiorenzo Magni
+1950,1,1,1950-07-13,Plain stage,307.0,Paris,Metz,Jean Goldschmit
+1950,2,2,1950-07-14,Plain stage,241.0,Metz,Liège,Adolfo Leoni
+1950,3,3,1950-07-15,Plain stage,232.5,Liège,Lille,Alfredo Pasotti
+1950,4,4,1950-07-16,Plain stage,231.0,Lille,Rouen,Stan Ockers
+1950,5,5,1950-07-17,Plain stage,316.0,Rouen,Dinard,Giovanni Corrieri
+1950,6,6,1950-07-19,Individual time trial,78.0,Dinard,St. Brieuc,Ferdinand Kübler
+1950,7,7,1950-07-20,Plain stage,248.0,St. Brieuc,Angers,Nello Lauredi
+1950,8,8,1950-07-21,Plain stage,181.0,Angers,Niort,Fiorenzo Magni
+1950,9,9,1950-07-22,Plain stage,206.0,Niort,Bordeaux,Alfredo Pasotti
+1950,10,10,1950-07-23,Plain stage,202.0,Bordeaux,Pau,Marcel Dussault
+1950,11,11,1950-07-25,Stage with mountain(s),230.0,Pau,St. Gaudens,Gino Bartali
+1950,12,12,1950-07-26,Plain stage,233.0,Saint-Gaudens,Perpignan,Maurice Blomme
+1950,13,13,1950-07-27,Plain stage,215.0,Perpignan,Nîmes,Marcel Molinès
+1950,14,14,1950-07-28,Plain stage,222.0,Nîmes,Toulon,Custodio Dos Reis
+1950,15,15,1950-07-29,Stage with mountain(s),205.5,Toulon,Menton,Jean Diederich
+1950,16,16,1950-07-30,Stage with mountain(s),96.0,Menton,Nice,Ferdinand Kübler
+1950,17,17,1950-08-01,Stage with mountain(s),229.0,Nice,Gap,Raphaël Géminiani
+1950,18,18,1950-08-02,Stage with mountain(s),165.0,Gap,Briançon,Louison Bobet
+1950,19,19,1950-08-03,Stage with mountain(s),291.0,Briançon,Saint-Étienne,Raphaël Géminiani
+1950,20,20,1950-08-05,Mountain time trial,98.0,Saint-Étienne,Lyon,Ferdinand Kübler
+1950,21,21,1950-08-06,Plain stage,233.0,Lyon,Dijon,Gino Sciardis
+1950,22,22,1950-08-07,Plain stage,314.0,Dijon,Paris,Émile Baffert
+1949,1,1,1949-06-30,Plain stage,182.0,Paris,Reims,Marcel Dussault
+1949,2,2,1949-07-01,Plain stage,273.0,Reims,Brussels,Roger Lambrecht
+1949,3,3,1949-07-02,Plain stage,211.0,Brussels,Boulogne-sur-Mer,Norbert Callens
+1949,4,4,1949-07-03,Plain stage,185.0,Boulogne-sur-Mer,Rouen,Lucien Teisseire
+1949,5,5,1949-07-04,Plain stage,293.0,Rouen,Saint-Malo,Ferdinand Kübler
+1949,6,6,1949-07-05,Plain stage,305.0,Saint-Malo,Les Sables-d'Olonne,Adolphe Deledda
+1949,7,7,1949-07-07,Individual time trial,92.0,Les Sables-d'Olonne,La Rochelle,Fausto Coppi
+1949,8,8,1949-07-08,Plain stage,262.0,La Rochelle,Bordeaux,Guy Lapébie
+1949,9,9,1949-07-09,Plain stage,228.0,Bordeaux,San Sebastián,Louis Caput
+1949,10,10,1949-07-10,Plain stage,192.0,San Sebastián,Pau,Fiorenzo Magni
+1949,11,11,1949-07-12,Stage with mountain(s),193.0,Pau,Luchon,Jean Robic
+1949,12,12,1949-07-13,Plain stage,134.0,Luchon,Toulouse,Rik Van Steenbergen
+1949,13,13,1949-07-14,Plain stage,289.0,Toulouse,Nîmes,Emile Idée
+1949,14,14,1949-07-15,Plain stage,199.0,Nîmes,Marseille,Jean Goldschmidt
+1949,15,15,1949-07-16,Plain stage,215.0,Marseille,Cannes,Désiré Keteleer
+1949,16,16,1949-07-18,Stage with mountain(s),275.0,Cannes,Briançon,Gino Bartali
+1949,17,17,1949-07-19,Stage with mountain(s),257.0,Briançon,Aosta,Fausto Coppi
+1949,18,18,1949-07-21,Stage with mountain(s),265.0,Aosta,Lausanne,Vincenzo Rossello
+1949,19,19,1949-07-22,Stage with mountain(s),283.0,Lausanne,Colmar,Raphaël Géminiani
+1949,20,20,1949-07-23,Mountain time trial,137.0,Colmar,Nancy,Fausto Coppi
+1949,21,21,1949-07-24,Plain stage,340.0,Nancy,Paris,Rik Van Steenbergen
+1948,1,1,1948-06-30,Plain stage,237.0,Paris,Trouville,Gino Bartali
+1948,2,2,1948-07-01,Plain stage,259.0,Trouville,Dinard,Vincenzo Rossello
+1948,3,3,1948-07-02,Plain stage,251.0,Dinard,Nantes,Guy Lapébie
+1948,4,4,1948-07-03,Plain stage,166.0,Nantes,La Rochelle,Jacques Pras
+1948,5,5,1948-07-04,Plain stage,262.0,La Rochelle,Bordeaux,Raoul Remy
+1948,6,6,1948-07-05,Plain stage,244.0,Bordeaux,Biarritz,Louison Bobet
+1948,7,7,1948-07-07,Stage with mountain(s),219.0,Biarritz,Lourdes,Gino Bartali
+1948,8,8,1948-07-08,Stage with mountain(s),261.0,Lourdes,Toulouse,Gino Bartali
+1948,9,9,1948-07-10,Plain stage,246.0,Toulouse,Montpellier,Raymond Impanis
+1948,10,10,1948-07-11,Plain stage,248.0,Montpellier,Marseille,Raymond Impanis
+1948,11,11,1948-07-12,Plain stage,245.0,Marseille,Sanremo,Gino Sciardis
+1948,12,12,1948-07-13,Stage with mountain(s),170.0,Sanremo,Cannes,Louison Bobet
+1948,13,13,1948-07-15,Stage with mountain(s),274.0,Cannes,Briançon,Gino Bartali
+1948,14,14,1948-07-16,Stage with mountain(s),263.0,Briançon,Aix-les-Bains,Gino Bartali
+1948,15,15,1948-07-18,Stage with mountain(s),256.0,Aix-les-Bains,Lausanne,Gino Bartali
+1948,16,16,1948-07-19,Stage with mountain(s),243.0,Lausanne,Mulhouse,Edward Van Dijck
+1948,17,17,1948-07-21,Individual time trial,120.0,Mulhouse,Strasbourg,Roger Lambrecht
+1948,18,18,1948-07-22,Plain stage,195.0,Strasbourg,Metz,Giovanni Corrieri
+1948,19,19,1948-07-23,Plain stage,249.0,Metz,Liège,Gino Bartali
+1948,20,20,1948-07-24,Plain stage,228.0,Liège,Roubaix,Bernard Gauthier
+1948,21,21,1948-07-25,Plain stage,286.0,Roubaix,Paris,Giovanni Corrieri
+1947,1,1,1947-06-25,Plain stage,236.0,Paris,Lille,Ferdinand Kübler
+1947,2,2,1947-06-26,Plain stage,182.0,Lille,Brussels,René Vietto
+1947,3,3,1947-06-27,Plain stage,314.0,Brussels,Luxembourg City,Aldo Ronconi
+1947,4,4,1947-06-28,Plain stage,223.0,Luxembourg City,Strasbourg,Jean Robic
+1947,5,5,1947-06-29,Plain stage,248.0,Strasbourg,Besançon,Ferdinand Kübler
+1947,6,6,1947-07-01,Plain stage,249.0,Besançon,Lyon,Lucien Teisseire
+1947,7,7,1947-07-02,Stage with mountain(s),172.0,Lyon,Grenoble,Jean Robic
+1947,8,8,1947-07-03,Stage with mountain(s),185.0,Grenoble,Briançon,Fermo Camellini
+1947,9,9,1947-07-05,Stage with mountain(s),217.0,Briançon,Digne,René Vietto
+1947,10,10,1947-07-06,Stage with mountain(s),255.0,Digne,Nice,Fermo Camellini
+1947,11,11,1947-07-08,Plain stage,230.0,Nice,Marseille,Édouard Fachleitner
+1947,12,12,1947-07-09,Plain stage,165.0,Marseille,Montpellier,Henri Massal
+1947,13,13,1947-07-10,Plain stage,172.0,Montpellier,Carcassonne,Lucien Teisseire
+1947,14,14,1947-07-11,Stage with mountain(s),253.0,Carcassonne,Luchon,Albert Bourlon
+1947,15,15,1947-07-13,Stage with mountain(s),195.0,Luchon,Pau,Jean Robic
+1947,16,16,1947-07-14,Plain stage,195.0,Pau,Bordeaux,Giuseppe Tacca
+1947,17,17,1947-07-15,Plain stage,272.0,Bordeaux,Les Sables-d'Olonne,Éloi Tassin
+1947,18,18,1947-07-16,Plain stage,236.0,Les Sables-d'Olonne,Vannes,Pietro Tarchini
+1947,19,19,1947-07-18,Individual time trial,139.0,Vannes,Saint-Brieuc,Raymond Impanis
+1947,20,20,1947-07-19,Plain stage,235.0,Saint-Brieuc,Caen,Maurice Diot
+1947,21,21,1947-07-20,Plain stage,257.0,Caen,Paris,Briek Schotte
+1932,1,1,1932-07-06,Plain stage,208.0,Paris,Caen,Jean Aerts
+1932,2,2,1932-07-07,Plain stage,300.0,Caen,Nantes,Kurt Stöpel
+1932,3,3,1932-07-09,Plain stage,387.0,Nantes,Bordeaux,André Leducq
+1932,4,4,1932-07-11,Plain stage,206.0,Bordeaux,Pau,Georges Ronsse
+1932,5,5,1932-07-12,Stage with mountain(s),229.0,Pau,Luchon,Antonio Pesenti
+1932,6,6,1932-07-14,Stage with mountain(s),322.0,Luchon,Perpignan,Frans Bonduel
+1932,7,7,1932-07-16,Plain stage,168.0,Perpignan,Montpellier,Frans Bonduel
+1932,8,8,1932-07-17,Plain stage,206.0,Montpellier,Marseille,Michele Orecchia
+1932,9,9,1932-07-18,Plain stage,191.0,Marseille,Cannes,Rafaele di Paco
+1932,10,10,1932-07-19,Stage with mountain(s),132.0,Cannes,Nice,Francesco Camusso
+1932,11,11,1932-07-21,Stage with mountain(s),233.0,Nice,Gap,André Leducq
+1932,12,12,1932-07-22,Stage with mountain(s),102.0,Gap,Grenoble,Roger Lapébie
+1932,13,13,1932-07-23,Stage with mountain(s),230.0,Grenoble,Aix-les-Bains,André Leducq
+1932,14,14,1932-07-24,Stage with mountain(s),204.0,Aix-les-Bains,Evian,Rafaele di Paco
+1932,15,15,1932-07-25,Stage with mountain(s),291.0,Evian,Belfort,André Leducq
+1932,16,16,1932-07-26,Plain stage,145.0,Belfort,Strasbourg,Gérard Loncke
+1932,17,17,1932-07-27,Plain stage,165.0,Strasbourg,Metz,Rafaele di Paco
+1932,18,18,1932-07-28,Plain stage,159.0,Metz,Charleville,Rafaele di Paco
+1932,19,19,1932-07-29,Plain stage,271.0,Charleville,Malo-les-Bains,Gaston Rebry
+1932,20,20,1932-07-30,Plain stage,212.0,Malo-les-Bains,Amiens,André Leducq
+1932,21,21,1932-07-31,Plain stage,159.0,Amiens,Paris,André Leducq
+1930,1,1,1930-07-02,Plain stage,206.0,Paris,Caen,Charles Pélissier
+1930,2,2,1930-07-03,Plain stage,203.0,Caen,Dinan,Learco Guerra
+1930,3,3,1930-07-04,Plain stage,206.0,Dinan,Brest,Charles Pélissier
+1930,4,4,1930-07-05,Plain stage,210.0,Brest,Vannes,Omer Taverne
+1930,5,5,1930-07-06,Plain stage,202.0,Vannes,Les Sables d'Olonne,André Leducq
+1930,6,6,1930-07-07,Plain stage,285.0,Les Sables d'Olonne,Bordeaux,Jean Aerts
+1930,7,7,1930-07-08,Plain stage,222.0,Bordeaux,Hendaye,Jules Merviel
+1930,8,8,1930-07-09,Plain stage,146.0,Hendaye,Pau,Alfredo Binda
+1930,9,9,1930-07-10,Stage with mountain(s),231.0,Pau,Luchon,Alfredo Binda
+1930,10,10,1930-07-12,Stage with mountain(s),322.0,Luchon,Perpignan,Charles Pélissier
+1930,11,11,1930-07-14,Plain stage,164.0,Perpignan,Montpellier,Charles Pélissier
+1930,12,12,1930-07-15,Plain stage,209.0,Montpellier,Marseille,Antonin Magne
+1930,13,13,1930-07-16,Plain stage,181.0,Marseille,Cannes,Learco Guerra
+1930,14,14,1930-07-17,Stage with mountain(s),132.0,Cannes,Nice,Louis Peglion
+1930,15,15,1930-07-19,Stage with mountain(s),333.0,Nice,Grenoble,Learco Guerra
+1930,16,16,1930-07-21,Stage with mountain(s),331.0,Grenoble,Evian,André Leducq
+1930,17,17,1930-07-23,Stage with mountain(s),282.0,Evian,Belfort,Frans Bonduel
+1930,18,18,1930-07-24,Plain stage,223.0,Belfort,Metz,Charles Pélissier
+1930,19,19,1930-07-25,Plain stage,159.0,Metz,Charleville,Charles Pélissier
+1930,20,20,1930-07-26,Plain stage,271.0,Charleville,Malo-les-Bains,Charles Pélissier
+1930,21,21,1930-07-27,Plain stage,300.0,Malo-les-Bains,Paris,Charles Pélissier
+1929,1,1,1929-06-30,Plain stage,206.0,Paris,Caen,Aimé Dossche
+1929,2,2,1929-07-01,Plain stage,140.0,Caen,Cherbourg,André Leducq
+1929,3,3,1929-07-02,Plain stage,199.0,Cherbourg,Dinan,Omer Taverne
+1929,4,4,1929-07-03,Plain stage,206.0,Dinan,Brest,Louis Delannoy
+1929,5,5,1929-07-04,Plain stage,208.0,Brest,Vannes,Gustaaf van Slembrouck
+1929,6,6,1929-07-05,Plain stage,206.0,Vannes,Les Sables d'Olonne,Paul Le Drogo
+1929,7,7,1929-07-06,Plain stage,285.0,Les Sables d'Olonne,Bordeaux,Nicolas Frantz
+1929,8,8,1929-07-07,Plain stage,182.0,Bordeaux,Bayonne,Julien Moineau
+1929,9,9,1929-07-09,Stage with mountain(s),363.0,Bayonne,Luchon,Salvador Cardona
+1929,10,10,1929-07-11,Stage with mountain(s),323.0,Luchon,Perpignan,Jef Demuysere
+1929,11,11,1929-07-13,Plain stage,366.0,Perpignan,Marseille,André Leducq
+1929,12,12,1929-07-15,Team time trial,191.0,Marseille,Cannes,Marcel Bidot
+1929,13,13,1929-07-16,Stage with mountain(s),133.0,Cannes,Nice,Benoît Fauré
+1929,14,14,1929-07-18,Stage with mountain(s),333.0,Nice,Grenoble,Gaston Rebry
+1929,15,15,1929-07-20,Stage with mountain(s),329.0,Grenoble,Evian,Julien Vervaecke
+1929,16,16,1929-07-22,Stage with mountain(s),283.0,Evian,Belfort,Charles Pélissier
+1929,17,17,1929-07-23,Plain stage,145.0,Belfort,Strasbourg,André Leducq
+1929,18,18,1929-07-24,Plain stage,165.0,Strasbourg,Metz,André Leducq
+1929,19,19,1929-07-25,Team time trial,159.0,Metz,Charleville,Bernard van Rysselberghe
+1929,20,20,1929-07-26,Team time trial,270.0,Charleville,Malo-les-Bains,Maurice Dewaele
+1929,21,21,1929-07-27,Plain stage,234.0,Malo-les-Bains,Dieppe,André Leducq
+1929,22,22,1929-07-28,Plain stage,332.0,Dieppe,Paris,Nicolas Frantz
+1928,1,1,1928-06-17,Team time trial,207.0,Paris,Caen,Nicolas Frantz
+1928,2,2,1928-06-18,Team time trial,140.0,Caen,Cherbourg,André Leducq
+1928,3,3,1928-06-19,Team time trial,199.0,Cherbourg,Dinan,Gaston Rebry
+1928,4,4,1928-06-20,Team time trial,206.0,Dinan,Brest,Pé Verhaegen
+1928,5,5,1928-06-21,Team time trial,208.0,Brest,Vannes,Marcel Bidot
+1928,6,6,1928-06-22,Team time trial,204.0,Vannes,Les Sables d'Olonne,Nicolas Frantz
+1928,7,7,1928-06-23,Team time trial,285.0,Les Sables d'Olonne,Bordeaux,Victor Fontan
+1928,8,8,1928-06-24,Team time trial,225.0,Bordeaux,Hendaye,Maurice Dewaele
+1928,9,9,1928-06-26,Stage with mountain(s),387.0,Hendaye,Luchon,Victor Fontan
+1928,10,10,1928-06-28,Stage with mountain(s),323.0,Luchon,Perpignan,André Leducq
+1928,11,11,1928-06-30,Plain stage,363.0,Perpignan,Marseille,André Leducq
+1928,12,12,1928-07-02,Stage with mountain(s),330.0,Marseille,Nice,Nicolas Frantz
+1928,13,13,1928-07-04,Stage with mountain(s),333.0,Nice,Grenoble,Antonin Magne
+1928,14,14,1928-07-06,Stage with mountain(s),329.0,Grenoble,Evian,Julien Moineau
+1928,15,15,1928-07-08,Team time trial,213.0,Evian,Pontarlier,Pierre Magne
+1928,16,16,1928-07-09,Team time trial,119.0,Pontarlier,Belfort,André Leducq
+1928,17,17,1928-07-10,Team time trial,145.0,Belfort,Strasbourg,Joseph Mauclair
+1928,18,18,1928-07-11,Team time trial,165.0,Strasbourg,Metz,Nicolas Frantz
+1928,19,19,1928-07-12,Team time trial,159.0,Metz,Charleville,Marcel Huot
+1928,20,20,1928-07-13,Team time trial,271.0,Charleville,Malo-les-Bains,Maurice Dewaele
+1928,21,21,1928-07-14,Team time trial,234.0,Malo-les-Bains,Dieppe,Antonin Magne
+1928,22,22,1928-07-15,Plain stage,331.0,Dieppe,Paris,Nicolas Frantz
+1926,1,1,1926-06-20,Plain stage,373.0,Evian,Mülhausen,Jules Buysse
+1926,2,2,1926-06-22,Plain stage,334.0,Mülhausen,Metz,Aimé Dossche
+1926,3,3,1926-06-24,Plain stage,433.0,Metz,Dunkerque,Gustaaf van Slembrouck
+1926,4,4,1926-06-26,Plain stage,361.0,Dunkerque,Le Havre,Félix Sellier
+1926,5,5,1926-06-28,Plain stage,357.0,Le Havre,Cherbourg,Adelin Benoit
+1926,6,6,1926-06-30,Plain stage,405.0,Cherbourg,Brest,Joseph van Dam
+1926,7,7,1926-07-02,Plain stage,412.0,Brest,Les Sables d'Olonne,Nicolas Frantz
+1926,8,8,1926-07-03,Plain stage,285.0,Les Sables d'Olonne,Bordeaux,Joseph van Dam
+1926,9,9,1926-07-04,Plain stage,189.0,Bordeaux,Bayonne,Nicolas Frantz
+1926,10,10,1926-07-06,Stage with mountain(s),326.0,Bayonne,Luchon,Lucien Buysse
+1926,11,11,1926-07-08,Stage with mountain(s),323.0,Luchon,Perpignan,Lucien Buysse
+1926,12,12,1926-07-10,Plain stage,427.0,Perpignan,Toulon,Nicolas Frantz
+1926,13,13,1926-07-12,Plain stage,280.0,Toulon,Nice,Nicolas Frantz
+1926,14,14,1926-07-14,Stage with mountain(s),275.0,Nice,Briançon,Bartolomeo Aimo
+1926,15,15,1926-07-16,Stage with mountain(s),303.0,Briançon,Evian,Joseph van Dam
+1926,16,16,1926-07-17,Plain stage,321.0,Evian,Dijon,Camille van de Casteele
+1926,17,17,1926-07-18,Plain stage,341.0,Dijon,Paris,Aimé Dossche
+1925,1,1,1925-06-21,Plain stage,340.0,Paris,Le Havre,Ottavio Bottecchia
+1925,2,2,1925-06-23,Plain stage,371.0,Le Havre,Cherbourg,Romain Bellenger
+1925,3,3,1925-06-25,Plain stage,405.0,Cherbourg,Brest,Louis Mottiat
+1925,4,4,1925-06-26,Plain stage,208.0,Brest,Vannes,Nicolas Frantz
+1925,5,5,1925-06-27,Plain stage,204.0,Vannes,Les Sables-d'Olonne,Nicolas Frantz
+1925,6,6,1925-06-28,Plain stage,293.0,Les Sables-d'Olonne,Bordeaux,Ottavio Bottecchia
+1925,7,7,1925-06-29,Plain stage,189.0,Bordeaux,Bayonne,Ottavio Bottecchia
+1925,8,8,1925-07-01,Stage with mountain(s),326.0,Bayonne,Luchon,Adelin Benoît
+1925,9,9,1925-07-03,Stage with mountain(s),323.0,Luchon,Perpignan,Nicolas Frantz
+1925,10,10,1925-07-04,Plain stage,215.0,Perpignan,Nîmes,Theophile Beeckman
+1925,11,11,1925-07-05,Plain stage,215.0,Nîmes,Toulon,Lucien Buysse
+1925,12,12,1925-07-07,Stage with mountain(s),280.0,Toulon,Nice,Lucien Buysse
+1925,13,13,1925-07-09,Stage with mountain(s),275.0,Nice,Briançon,Bartolomeo Aimo
+1925,14,14,1925-07-11,Stage with mountain(s),303.0,Briançon,Evian,Hector Martin
+1925,15,15,1925-07-13,Stage with mountain(s),373.0,Evian,Mulhouse,Nicolas Frantz
+1925,16,16,1925-07-15,Plain stage,334.0,Mulhouse,Metz,Hector Martin
+1925,17,17,1925-07-17,Plain stage,433.0,Metz,Dunkerque,Hector Martin
+1925,18,18,1925-07-19,Plain stage,343.0,Dunkerque,Paris,Ottavio Bottecchia
+1924,1,1,1924-06-22,Plain stage,381.0,Paris,Le Havre,Ottavio Bottecchia
+1924,2,2,1924-06-24,Plain stage,371.0,Le Havre,Cherbourg,Romain Bellenger
+1924,3,3,1924-06-26,Plain stage,405.0,Cherbourg,Brest,Philippe Thys  Théophile Beeckman
+1924,4,4,1924-06-28,Plain stage,412.0,Brest,Les Sables-d'Olonne,Félix Goethals
+1924,5,5,1924-06-30,Plain stage,482.0,Les Sables-d'Olonne,Bayonne,Omer Huyse
+1924,6,6,1924-07-02,Stage with mountain(s),326.0,Bayonne,Luchon,Ottavio Bottecchia
+1924,7,7,1924-07-04,Stage with mountain(s),323.0,Luchon,Perpignan,Ottavio Bottecchia
+1924,8,8,1924-07-06,Plain stage,427.0,Perpignan,Toulon,Louis Mottiat
+1924,9,9,1924-07-08,Stage with mountain(s),280.0,Toulon,Nice,Philippe Thys
+1924,10,10,1924-07-10,Stage with mountain(s),275.0,Nice,Briançon,Giovanni Brunero
+1924,11,11,1924-07-12,Stage with mountain(s),307.0,Briançon,Gex,Nicolas Frantz
+1924,12,12,1924-07-14,Stage with mountain(s),360.0,Gex,Strasbourg,Nicolas Frantz
+1924,13,13,1924-07-16,Plain stage,300.0,Strasbourg,Metz,Arsène Alancourt
+1924,14,14,1924-07-18,Plain stage,433.0,Metz,Dunkerque,Romain Bellenger
+1924,15,15,1924-07-20,Plain stage,343.0,Dunkerque,Paris,Ottavio Bottecchia
+1923,1,1,1923-06-24,Plain stage,381.0,Paris,Le Havre,Robert Jacquinot
+1923,2,2,1923-06-26,Plain stage,371.0,Le Havre,Cherbourg,Ottavio Bottecchia
+1923,3,3,1923-06-28,Plain stage,405.0,Cherbourg,Brest,Henri Pélissier
+1923,4,4,1923-06-30,Plain stage,412.0,Brest,Les Sables d'Olonne,Albert Dejonghe
+1923,5,5,1923-07-02,Plain stage,482.0,Les Sables d'Olonne,Bayonne,Robert Jacquinot
+1923,6,6,1923-07-04,Stage with mountain(s),326.0,Bayonne,Luchon,Jean Alavoine
+1923,7,7,1923-07-06,Stage with mountain(s),323.0,Luchon,Perpignan,Jean Alavoine
+1923,8,8,1923-07-08,Plain stage,427.0,Perpignan,Toulon,Lucien Buysse
+1923,9,9,1923-07-10,Stage with mountain(s),281.0,Toulon,Nice,Jean Alavoine
+1923,10,10,1923-07-12,Stage with mountain(s),275.0,Nice,Briançon,Henri Pélissier
+1923,11,11,1923-07-14,Stage with mountain(s),260.0,Briançon,Geneva,Henri Pélissier
+1923,12,12,1923-07-16,Plain stage,377.0,Geneva,Strasbourg,Joseph Muller
+1923,13,13,1923-07-18,Plain stage,300.0,Strasbourg,Metz,Romain Bellenger
+1923,14,14,1923-07-20,Plain stage,433.0,Metz,Dunkerque,Félix Goethals
+1923,15,15,1923-07-22,Plain stage,343.0,Dunkerque,Paris,Félix Goethals
+1922,1,1,1922-06-25,Plain stage,388.0,Paris,Le Havre,Robert Jacquinot
+1922,2,2,1922-06-27,Plain stage,364.0,Le Havre,Cherbourg,Romain Bellenger
+1922,3,3,1922-06-29,Plain stage,405.0,Cherbourg,Brest,Robert Jacquinot
+1922,4,4,1922-07-01,Plain stage,412.0,Brest,Les Sables d'Olonne,Philippe Thys
+1922,5,5,1922-07-03,Plain stage,482.0,Les Sables d'Olonne,Bayonne,Jean Alavoine
+1922,6,6,1922-07-05,Stage with mountain(s),326.0,Bayonne,Luchon,Jean Alavoine
+1922,7,7,1922-07-07,Stage with mountain(s),323.0,Luchon,Perpignan,Jean Alavoine
+1922,8,8,1922-07-09,Plain stage,411.0,Perpignan,Toulon,Philippe Thys
+1922,9,9,1922-07-11,Stage with mountain(s),284.0,Toulon,Nice,Philippe Thys
+1922,10,10,1922-07-13,Stage with mountain(s),274.0,Nice,Briançon,Philippe Thys
+1922,11,11,1922-07-15,Stage with mountain(s),260.0,Briançon,Geneva,Emile Masson}
+1922,12,12,1922-07-17,Plain stage,371.0,Geneva,Strasbourg,Emile Masson
+1922,13,13,1922-07-19,Plain stage,300.0,Strasbourg,Metz,Federico Gay
+1922,14,14,1922-07-21,Plain stage,433.0,Metz,Dunkerque,Félix Sellier
+1922,15,15,1922-07-23,Plain stage,340.0,Dunkerque,Paris,Philippe Thys
+1921,1,1,1921-06-26,Plain stage,388.0,Paris,Le Havre,Louis Mottiat
+1921,2,2,1921-06-28,Plain stage,364.0,Le Havre,Cherbourg,Romain Bellenger
+1921,3,3,1921-06-30,Plain stage,405.0,Cherbourg,Brest,Leon Scieur
+1921,4,4,1921-07-02,Plain stage,412.0,Brest,Les Sables-d'Olonne,Louis Mottiat
+1921,5,5,1921-07-04,Plain stage,482.0,Les Sables-d'Olonne,Bayonne,Louis Mottiat
+1921,6,6,1921-07-06,Stage with mountain(s),326.0,Bayonne,Luchon,Hector Heusghem
+1921,7,7,1921-07-08,Stage with mountain(s),323.0,Luchon,Perpignan,Louis Mottiat
+1921,8,8,1921-07-10,Plain stage,411.0,Perpignan,Toulon,Luigi Lucotti
+1921,9,9,1921-07-12,Stage with mountain(s),272.0,Toulon,Nice,Firmin Lambot
+1921,10,10,1921-07-14,Stage with mountain(s),333.0,Nice,Grenoble,Leon Scieur
+1921,11,11,1921-07-16,Stage with mountain(s),325.0,Grenoble,Geneva,Félix Goethals
+1921,12,12,1921-07-18,Plain stage,371.0,Geneva,Strasbourg,Honoré Barthélemy
+1921,13,13,1921-07-20,Plain stage,300.0,Strasbourg,Metz,Félix Sellier
+1921,14,14,1921-07-22,Plain stage,433.0,Metz,Dunkerque,Félix Goethals
+1921,15,15,1921-07-24,Plain stage,340.0,Dunkerque,Paris,Félix Goethals
+1920,1,1,1920-06-27,Plain stage,388.0,Paris,Le Havre,Louis Mottiat
+1920,2,2,1920-06-29,Plain stage,364.0,Le Havre,Cherbourg,Philippe Thys
+1920,3,3,1920-07-01,Plain stage,405.0,Cherbourg,Brest,Henri Pélissier
+1920,4,4,1920-07-03,Plain stage,412.0,Brest,Les Sables d'Olonne,Henri Pélissier
+1920,5,5,1920-07-05,Plain stage,482.0,Les Sables d'Olonne,Bayonne,Firmin Lambot
+1920,6,6,1920-07-07,Stage with mountain,326.0,Bayonne,Luchon,Firmin Lambot
+1920,7,7,1920-07-09,Stage with mountain,323.0,Luchon,Perpignan,Jean Rossius
+1920,8,8,1920-07-11,Plain stage,325.0,Perpignan,Aix-en-Provence,Louis Heusghem
+1920,9,9,1920-07-14,Stage with mountain,356.0,Aix-en-Provence,Nice,Philippe Thys
+1920,10,10,1920-07-16,Stage with mountain,333.0,Nice,Grenoble,Hector Heusghem
+1920,11,11,1920-07-18,Stage with mountain,362.0,Grenoble,Gex,Léon Scieur
+1920,12,12,1920-07-20,Plain stage,354.0,Gex,Strasbourg,Philippe Thys
+1920,13,13,1920-07-22,Plain stage,300.0,Strasbourg,Metz,Philippe Thys
+1920,14,14,1920-07-24,Plain stage,433.0,Metz,Dunkerque,Félix Goethals
+1920,15,15,1920-07-27,Plain stage,340.0,Dunkerque,Paris,Jean Rossius
+1919,1,1,1919-06-29,Plain stage,388.0,Paris,Le Havre,Jean Rossius
+1919,2,2,1919-07-01,Plain stage,364.0,Le Havre,Cherbourg,Henri Pélissier
+1919,3,3,1919-07-03,Plain stage,405.0,Cherbourg,Brest,Francis Pélissier
+1919,4,4,1919-07-05,Plain stage,412.0,Brest,Les Sables-d'Olonne,Jean Alavoine
+1919,5,5,1919-07-07,Plain stage,482.0,Les Sables-d'Olonne,Bayonne,Jean Alavoine
+1919,6,6,1919-07-09,Stage with mountain,326.0,Bayonne,Luchon,Honore Barthelemy
+1919,7,7,1919-07-11,Stage with mountain,323.0,Luchon,Perpignan,Jean Alavoine
+1919,8,8,1919-07-13,Plain stage,370.0,Perpignan,Marseille,Jean Alavoine
+1919,9,9,1919-07-15,Stage with mountain,338.0,Marseille,Nice,Honoré Barthélemy
+1919,10,10,1919-07-17,Stage with mountain,333.0,Nice,Grenoble,Honoré Barthélemy
+1919,11,11,1919-07-19,Stage with mountain,325.0,Grenoble,Geneva,Honoré Barthélemy
+1919,12,12,1919-07-21,Stage with mountain,371.0,Geneva,Strasbourg,Luigi Lucotti
+1919,13,13,1919-07-23,Plain stage,315.0,Strasbourg,Metz,Luigi Lucotti
+1919,14,14,1919-07-25,Plain stage,468.0,Metz,Dunkerque,Firmin Lambot
+1919,15,15,1919-07-27,Plain stage,340.0,Dunkerque,Paris,Jean Alavoine
+1914,1,1,1914-06-28,Plain stage,388.0,Paris,Le Havre,Philippe Thys
+1914,2,2,1914-06-30,Plain stage,364.0,Le Havre,Cherbourg,Jean Rossius
+1914,3,3,1914-07-02,Plain stage,405.0,Cherbourg,Brest,Emile Engel
+1914,4,4,1914-07-04,Plain stage,470.0,Brest,La Rochelle,Oscar Egg
+1914,5,5,1914-07-06,Plain stage,376.0,La Rochelle,Bayonne,Oscar Egg
+1914,6,6,1914-07-08,Stage with mountain(s),326.0,Bayonne,Luchon,Firmin Lambot
+1914,7,7,1914-07-10,Stage with mountain(s),323.0,Luchon,Perpignan,Jean Alavoine
+1914,8,8,1914-07-12,Plain stage,370.0,Perpignan,Marseille,Octave Lapize
+1914,9,9,1914-07-14,Stage with mountain(s),338.0,Marseille,Nice,Jean Rossius
+1914,10,10,1914-07-16,Stage with mountain(s),323.0,Nice,Grenoble,Henri Pélissier
+1914,11,11,1914-07-18,Stage with mountain(s),325.0,Grenoble,Geneva,Gustave Garrigou
+1914,12,12,1914-07-20,Stage with mountain(s),325.0,Geneva,Belfort,Henri Pélissier
+1914,13,13,1914-07-22,Stage with mountain(s),325.0,Belfort,Longwy,François Faber
+1914,14,14,1914-07-24,Plain stage,390.0,Longwy,Dunkerque,François Faber
+1914,15,15,1914-07-26,Plain stage,340.0,Dunkerque,Paris,Henri Pélissier
+1913,1,1,1913-06-29,Plain stage,388.0,Paris,Le Havre,Giovanni Micheletto
+1913,2,2,1913-07-01,Plain stage,364.0,Le Havre,Cherbourg,Jules Masselis
+1913,3,3,1913-07-03,Plain stage,405.0,Cherbourg,Brest,Henri Pelissier
+1913,4,4,1913-07-05,Plain stage,470.0,Brest,La Rochelle,Marcel Buysse
+1913,5,5,1913-07-07,Plain stage,379.0,La Rochelle,Bayonne,Henri Van Lerberghe
+1913,6,6,1913-07-09,Stage with mountain(s),326.0,Bayonne,Luchon,Philippe Thys
+1913,7,7,1913-07-11,Stage with mountain(s),324.0,Luchon,Perpignan,Marcel Buysse
+1913,8,8,1913-07-13,Plain stage,325.0,Perpignan,Aix-en-Provence,Gustave Garrigou
+1913,9,9,1913-07-15,Stage with mountain(s),356.0,Aix-en-Provence,Nice,Firmin Lambot
+1913,10,10,1913-07-17,Stage with mountain(s),333.0,Nice,Grenoble,Francois Faber
+1913,11,11,1913-07-19,Stage with mountain(s),325.0,Grenoble,Geneva,Marcel Buysse
+1913,12,12,1913-07-21,Stage with mountain(s),335.0,Geneva,Belfort,Marcel Buysse
+1913,13,13,1913-07-23,Stage with mountain(s),325.0,Belfort,Longwy,François Faber
+1913,14,14,1913-07-25,Plain stage,393.0,Longwy,Dunkerque,Marcel Buysse
+1913,15,15,1913-07-27,Plain stage,340.0,Dunkerque,Paris,Marcel Buysse
+1912,1,1,1912-06-30,Plain stage,351.0,Paris,Dunkerque,Charles Crupelandt
+1912,2,2,1912-07-02,Plain stage,388.0,Dunkerque,Longwy,Odile Defraye
+1912,3,3,1912-07-04,Stage with mountain(s),331.0,Longwy,Belfort,Eugène Christophe
+1912,4,4,1912-07-06,Stage with mountain(s),344.0,Belfort,Chamonix,Eugène Christophe
+1912,5,5,1912-07-08,Stage with mountain(s),366.0,Chamonix,Grenoble,Eugène Christophe
+1912,6,6,1912-07-10,Stage with mountain(s),323.0,Grenoble,Nice,Octave Lapize
+1912,7,7,1912-07-12,Stage with mountain(s),334.0,Nice,Marseille,Odile Defraye
+1912,8,8,1912-07-14,Plain stage,335.0,Marseille,Perpignan,Vicenzo Borgarello
+1912,9,9,1912-07-16,Stage with mountain(s),289.0,Perpignan,Luchon,Odile Defraye
+1912,10,10,1912-07-18,Stage with mountain(s),326.0,Luchon,Bayonne,Louis Mottiat
+1912,11,11,1912-07-20,Plain stage,379.0,Bayonne,La Rochelle,Jean Alavoine
+1912,12,12,1912-07-21,Plain stage,470.0,La Rochelle,Brest,Louis Heusghem
+1912,13,13,1912-07-24,Plain stage,405.0,Brest,Cherbourg,Jean Alavoine
+1912,14,14,1912-07-26,Plain stage,361.0,Cherbourg,Le Havre,Vicenzo Borgarello
+1912,15,15,1912-07-28,Plain stage,317.0,Le Havre,Paris,Jean Alavoine
+1911,1,1,1911-07-02,Plain stage,351.0,Paris,Dunkerque,Gustave Garrigou
+1911,2,2,1911-07-04,Plain stage,388.0,Dunkerque,Longwy,Jules Masselis
+1911,3,3,1911-07-06,Stage with mountain(s),331.0,Longwy,Belfort,François Faber
+1911,4,4,1911-07-08,Stage with mountain(s),344.0,Belfort,Chamonix,Charles Crupelandt
+1911,5,5,1911-07-10,Stage with mountain(s),366.0,Chamonix,Grenoble,Émile Georget
+1911,6,6,1911-07-12,Stage with mountain(s),348.0,Grenoble,Nice,François Faber
+1911,7,7,1911-07-14,Stage with mountain(s),334.0,Nice,Marseille,Charles Crupelandt
+1911,8,8,1911-07-16,Plain stage,335.0,Marseille,Perpignan,Paul Duboc
+1911,9,9,1911-07-18,Stage with mountain(s),289.0,Perpignan,Luchon,Paul Duboc
+1911,10,10,1911-07-20,Stage with mountain(s),326.0,Luchon,Bayonne,Maurice Brocco
+1911,11,11,1911-07-22,Plain stage,379.0,Bayonne,La Rochelle,Paul Duboc
+1911,12,12,1911-07-23,Plain stage,470.0,La Rochelle,Brest,Marcel Godivier
+1911,13,13,1911-07-26,Plain stage,405.0,Brest,Cherbourg,Gustave Garrigou
+1911,14,14,1911-07-28,Plain stage,361.0,Cherbourg,Le Havre,Paul Duboc
+1911,15,15,1911-07-30,Plain stage,317.0,Le Havre,Paris,Marcel Godivier
+1910,1,1,1910-07-03,Plain stage,269.0,Paris,Roubaix,Charles Crupelandt
+1910,2,2,1910-07-05,Plain stage,398.0,Roubaix,Metz,François Faber
+1910,3,3,1910-07-07,Stage with mountain(s),259.0,Metz,Belfort,Emile Georget
+1910,4,4,1910-07-09,Stage with mountain(s),309.0,Belfort,Lyon,François Faber
+1910,5,5,1910-07-11,Stage with mountain(s),311.0,Lyon,Grenoble,Octave Lapize
+1910,6,6,1910-07-13,Stage with mountain(s),345.0,Grenoble,Nice,Julien Maitron
+1910,7,7,1910-07-15,Plain stage,345.0,Nice,Nîmes,François Faber
+1910,8,8,1910-07-17,Plain stage,216.0,Nîmes,Perpignan,Georges Paulmier
+1910,9,9,1910-07-19,Stage with mountain(s),289.0,Perpignan,Luchon,Octave Lapize
+1910,10,10,1910-07-21,Stage with mountain(s),326.0,Luchon,Bayonne,Octave Lapize
+1910,11,11,1910-07-23,Plain stage,269.0,Bayonne,Bordeaux,Ernest Paul
+1910,12,12,1910-07-25,Plain stage,391.0,Bordeaux,Nantes,Louis Trousselier
+1910,13,13,1910-07-27,Plain stage,321.0,Nantes,Brest,Gustave Garrigou
+1910,14,14,1910-07-29,Plain stage,424.0,Brest,Caen,Octave Lapize
+1910,15,15,1910-07-31,Plain stage,262.0,Caen,Paris,Ernesto Azzini
+1909,1,1,1909-07-05,Plain stage,272.0,Paris,Roubaix,Cyrille van Hauwaert
+1909,2,2,1909-07-07,Plain stage,398.0,Roubaix,Metz,François Faber
+1909,3,3,1909-07-09,Stage with mountain(s),259.0,Metz,Belfort,François Faber
+1909,4,4,1909-07-11,Stage with mountain(s),309.0,Belfort,Lyon,François Faber
+1909,5,5,1909-07-13,Stage with mountain(s),311.0,Lyon,Grenoble,François Faber
+1909,6,6,1909-07-15,Stage with mountain(s),346.0,Grenoble,Nice,François Faber
+1909,7,7,1909-07-17,Plain stage,345.0,Nice,Nîmes,Ernest Paul
+1909,8,8,1909-07-19,Plain stage,303.0,Nîmes,Toulouse,Jean Alavoine
+1909,9,9,1909-07-21,Plain stage,299.0,Toulouse,Bayonne,Constant Ménager
+1909,10,10,1909-07-23,Plain stage,269.0,Bayonne,Bordeaux,François Faber
+1909,11,11,1909-07-25,Plain stage,391.0,Bordeaux,Nantes,Louis Trousselier
+1909,12,12,1909-07-27,Plain stage,321.0,Nantes,Brest,Gustave Garrigou
+1909,13,13,1909-07-29,Plain stage,424.0,Brest,Caen,Paul Duboc
+1909,14,14,1909-08-01,Plain stage,250.0,Caen,Paris,Jean Alavoine
+1908,1,1,1908-07-13,Plain stage,272.0,Paris,Roubaix,Georges Passerieu
+1908,2,2,1908-07-15,Plain stage,398.0,Roubaix,Metz,Lucien Petit-Breton
+1908,3,3,1908-07-17,Stage with mountain(s),259.0,Metz,Belfort,François Faber
+1908,4,4,1908-07-19,Stage with mountain(s),309.0,Belfort,Lyon,François Faber
+1908,5,5,1908-07-21,Stage with mountain(s),311.0,Lyon,Grenoble,Georges Passerieu
+1908,6,6,1908-07-23,Stage with mountain(s),345.0,Grenoble,Nice,Jean-Baptiste Dortignacq
+1908,7,7,1908-07-25,Plain stage,354.0,Nice,Nîmes,Lucien Petit-Breton
+1908,8,8,1908-07-27,Plain stage,303.0,Nîmes,Toulouse,François Faber
+1908,9,9,1908-07-29,Plain stage,299.0,Toulouse,Bayonne,Lucien Petit-Breton
+1908,10,10,1908-07-31,Plain stage,269.0,Bayonne,Bordeaux,Georges Paulmier
+1908,11,11,1908-08-02,Plain stage,391.0,Bordeaux,Nantes,Lucien Petit-Breton
+1908,12,12,1908-08-04,Plain stage,321.0,Nantes,Brest,François Faber
+1908,13,13,1908-08-06,Plain stage,415.0,Brest,Caen,Georges Passerieu
+1908,14,14,1908-08-09,Plain stage,251.0,Caen,Paris,Lucien Petit-Breton
+1907,1,1,1907-07-08,Plain stage,272.0,Paris,Roubaix,Louis Trousselier
+1907,2,2,1907-07-10,Plain stage,398.0,Roubaix,Metz,Emile Georget Louis Trousselier
+1907,3,3,1907-07-12,Stage with mountain(s),259.0,Metz,Belfort,Emile Georget
+1907,4,4,1907-07-14,Stage with mountain(s),309.0,Belfort,Lyon,Marcel Cadolle
+1907,5,5,1907-07-16,Stage with mountain(s),311.0,Lyon,Grenoble,Emile Georget
+1907,6,6,1907-07-18,Stage with mountain(s),345.0,Grenoble,Nice,Georges Passerieu
+1907,7,7,1907-07-20,Plain stage,345.0,Nice,Nîmes,Emile Georget
+1907,8,8,1907-07-22,Plain stage,303.0,Nîmes,Toulouse,Emile Georget
+1907,9,9,1907-07-24,Plain stage,299.0,Toulouse,Bayonne,Lucien Petit-Breton
+1907,10,10,1907-07-26,Plain stage,269.0,Bayonne,Bordeaux,Gustave Garrigou
+1907,11,11,1907-07-28,Plain stage,391.0,Bordeaux,Nantes,Lucien Petit-Breton
+1907,12,12,1907-07-30,Plain stage,321.0,Nantes,Brest,Gustave Garrigou
+1907,13,13,1907-08-01,Plain stage,415.0,Brest,Caen,Emile Georget
+1907,14,14,1907-08-04,Plain stage,251.0,Caen,Paris,Georges Passerieu
+1906,1,1,1906-07-04,Plain stage,275.0,Paris,Lille,Emile Georget
+1906,2,2,1906-07-06,Plain stage,400.0,Douai,Nancy,René Pottier
+1906,3,3,1906-07-08,Stage with mountain(s),416.0,Nancy,Dijon,René Pottier
+1906,4,4,1906-07-10,Plain stage,311.0,Dijon,Grenoble,René Pottier
+1906,5,5,1906-07-12,Stage with mountain(s),345.0,Grenoble,Nice,René Pottier
+1906,6,6,1906-07-14,Plain stage,292.0,Nice,Marseille,Georges Passerieu
+1906,7,7,1906-07-16,Plain stage,480.0,Marseille,Toulouse,Louis Trousselier
+1906,8,8,1906-07-18,Plain stage,300.0,Toulouse,Bayonne,Jean-Baptiste Dortignacq
+1906,9,9,1906-07-20,Plain stage,338.0,Bayonne,Bordeaux,Louis Trousselier
+1906,10,10,1906-07-22,Plain stage,391.0,Bordeaux,Nantes,Louis Trousselier
+1906,11,11,1906-07-24,Plain stage,321.0,Nantes,Brest,Louis Trousselier
+1906,12,12,1906-07-26,Plain stage,415.0,Brest,Caen,Georges Passerieu
+1906,13,13,1906-07-29,Plain stage,259.0,Caen,Paris,René Pottier
+1905,1,1,1905-07-09,Plain stage,340.0,Paris,Nancy,Louis Trousselier
+1905,2,2,1905-07-11,Stage with mountain(s),299.0,Nancy,Besançon,Hippolyte Aucouturier
+1905,3,3,1905-07-14,Plain stage,327.0,Besançon,Grenoble,Louis Trousselier
+1905,4,4,1905-07-16,Stage with mountain(s),348.0,Grenoble,Toulon,Hippolyte Aucouturier
+1905,5,5,1905-07-18,Plain stage,192.0,Toulon,Nîmes,Louis Trousselier
+1905,6,6,1905-07-20,Plain stage,307.0,Nîmes,Toulouse,Jean-Baptiste Dortignacq
+1905,7,7,1905-07-22,Plain stage,268.0,Toulouse,Bordeaux,Louis Trousselier
+1905,8,8,1905-07-24,Plain stage,257.0,Bordeaux,La Rochelle,Hippolyte Aucouturier
+1905,9,9,1905-07-26,Plain stage,263.0,La Rochelle,Rennes,Louis Trousselier
+1905,10,10,1905-07-28,Plain stage,167.0,Rennes,Caen,Jean-Baptiste Dortignacq
+1905,11,11,1905-07-29,Plain stage,253.0,Caen,Paris,Jean-Baptiste Dortignacq
+1904,1,1,1904-07-02,Plain stage,467.0,Montgeron,Lyon,Maurice Garin
+1904,2,2,1904-07-09,Stage with mountain(s),374.0,Lyon,Marseille,Hippolyte Aucouturier
+1904,3,3,1904-07-13,Plain stage,424.0,Marseille,Toulouse,Hippolyte Aucouturier
+1904,4,4,1904-07-17,Plain stage,268.0,Toulouse,Bordeaux,Lucien Pothier
+1904,5,5,1904-07-20,Plain stage,425.0,Bordeaux,Nantes,Hippolyte Aucouturier
+1904,6,6,1904-07-23,Plain stage,471.0,Nantes,Paris,Hippolyte Aucouturier
+1903,1,1,1903-07-01,Plain stage,467.0,Paris,Lyon,Maurice Garin
+1903,2,2,1903-07-05,Stage with mountain(s),374.0,Lyon,Marseille,Hippolyte Aucouturier
+1903,3,3,1903-07-08,Plain stage,423.0,Marseille,Toulouse,Hippolyte Aucouturier
+1903,4,4,1903-07-12,Plain stage,268.0,Toulouse,Bordeaux,Charles Laeser
+1903,5,5,1903-07-13,Plain stage,425.0,Bordeaux,Nantes,Maurice Garin
+1903,6,6,1903-07-18,Plain stage,471.0,Nantes,Paris,Maurice Garin

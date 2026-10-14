@@ -1,0 +1,3 @@
+# só para o modo demonstração (sem Cassandra), que lê os CSVs em memória
+-r requirements.txt
+pandas>=2.0

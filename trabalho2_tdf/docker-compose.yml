@@ -1,0 +1,37 @@
+# Um nó de Cassandra + carga dos dados + API/interface.
+#   docker compose up --build        -> abre http://localhost:8000
+# (a primeira subida leva alguns minutos: o Cassandra inicia e os 171 mil resultados são carregados)
+services:
+  cassandra:
+    image: cassandra:5.0
+    container_name: tdf-cassandra1
+    environment:
+      CASSANDRA_CLUSTER_NAME: TourDeFrance
+      MAX_HEAP_SIZE: 1G
+      HEAP_NEWSIZE: 256M
+    ports: ["9042:9042"]
+    volumes: ["cassandra_data:/var/lib/cassandra"]
+    healthcheck:
+      test: ["CMD-SHELL", "cqlsh -e 'DESCRIBE KEYSPACES' > /dev/null 2>&1"]
+      interval: 15s
+      timeout: 10s
+      retries: 30
+      start_period: 40s
+
+  carga:
+    build: .
+    command: ["python", "carregar.py", "--host", "cassandra", "--rf", "1", "--se-vazio"]
+    depends_on:
+      cassandra: { condition: service_healthy }
+
+  app:
+    build: .
+    environment:
+      TDF_MODE: cassandra
+      TDF_HOSTS: cassandra
+    ports: ["8000:8000"]
+    depends_on:
+      carga: { condition: service_completed_successfully }
+
+volumes:
+  cassandra_data:

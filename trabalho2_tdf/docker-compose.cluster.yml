@@ -1,0 +1,74 @@
+# Cluster de 3 nós (replicação RF=3) para demonstrar particionamento, replicação e consistência.
+#   docker compose -f docker-compose.cluster.yml up --build   -> http://localhost:8000
+# Precisa de uns 6 GB de RAM livres. Para ver a tolerância a falhas:  docker stop tdf-cassandra3
+x-no: &no
+  image: cassandra:5.0
+  environment: &env
+    CASSANDRA_CLUSTER_NAME: TourDeFrance
+    CASSANDRA_SEEDS: cassandra1
+    CASSANDRA_DC: datacenter1
+    CASSANDRA_ENDPOINT_SNITCH: GossipingPropertyFileSnitch
+    MAX_HEAP_SIZE: 512M
+    HEAP_NEWSIZE: 128M
+
+services:
+  cassandra1:
+    <<: *no
+    container_name: tdf-cassandra1
+    environment: { <<: *env, CASSANDRA_RACK: rack1 }
+    ports: ["9042:9042"]
+    volumes: ["data1:/var/lib/cassandra"]
+    healthcheck:
+      test: ["CMD-SHELL", "[ \"$$(nodetool status 2>/dev/null | grep -c '^UN')\" -ge 1 ]"]
+      interval: 20s
+      timeout: 15s
+      retries: 30
+      start_period: 60s
+
+  cassandra2:
+    <<: *no
+    container_name: tdf-cassandra2
+    environment: { <<: *env, CASSANDRA_RACK: rack2 }
+    volumes: ["data2:/var/lib/cassandra"]
+    depends_on:
+      cassandra1: { condition: service_healthy }
+    healthcheck:
+      test: ["CMD-SHELL", "[ \"$$(nodetool status 2>/dev/null | grep -c '^UN')\" -ge 2 ]"]
+      interval: 20s
+      timeout: 15s
+      retries: 30
+      start_period: 60s
+
+  cassandra3:
+    <<: *no
+    container_name: tdf-cassandra3
+    environment: { <<: *env, CASSANDRA_RACK: rack3 }
+    volumes: ["data3:/var/lib/cassandra"]
+    depends_on:
+      cassandra2: { condition: service_healthy }
+    healthcheck:
+      test: ["CMD-SHELL", "[ \"$$(nodetool status 2>/dev/null | grep -c '^UN')\" -ge 3 ]"]
+      interval: 20s
+      timeout: 15s
+      retries: 30
+      start_period: 60s
+
+  carga:
+    build: .
+    command: ["python", "carregar.py", "--host", "cassandra1", "--rf", "3", "--se-vazio"]
+    depends_on:
+      cassandra3: { condition: service_healthy }
+
+  app:
+    build: .
+    environment:
+      TDF_MODE: cassandra
+      TDF_HOSTS: cassandra1,cassandra2,cassandra3
+    ports: ["8000:8000"]
+    depends_on:
+      carga: { condition: service_completed_successfully }
+
+volumes:
+  data1:
+  data2:
+  data3:
